@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+faiss-cpu
+pillow
+python-multipart
+groq
+pydantic
+python-dotenv
+torch
+transformers

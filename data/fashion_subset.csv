@@ -1,0 +1,771 @@
+id,gender,masterCategory,subCategory,articleType,baseColour,season,year,usage,productDisplayName,brand ,price
+10268,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2012,Formal,Clarks Men Hang Work Leather Black Formal Shoes,Clarks,2195
+10866,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Wrangler Men Motor Rider Red T-Shirts,Wrangler,1490
+10065,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Puma Men ducati logo tee Yellow Tshirts,Puma,872
+10859,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Wrangler Men Furious Rides Navy Blue T-Shirts,Wrangler,1342
+10257,Men,Apparel,Bottomwear,Trousers,Black,Fall,2011,Formal,John Miller Men Solid Type Black Trousers,John Miller,1929
+10633,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011,Formal,Carlton London Men Formal Brown Formal Shoes,Carlton London,2385
+10401,Women,Apparel,Topwear,Tops,Purple,Fall,2011,Casual,Jealous 21 Women Uaine Purple Tops,Jealous 21,1017
+10861,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men Dirt Riders White T-Shirts,Wrangler,1271
+10439,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011,Casual,Flying Machine Men Walnut Brown Tshirts,Flying Machine,1074
+10096,Women,Footwear,Shoes,Sports Shoes,Blue,Fall,2011,Sports,Reebok Women Reeflex Run Blue Sports Shoes,Reebok,2645
+10406,Women,Apparel,Dress,Dresses,Grey,Fall,2011,Casual,United Colors of Benetton Women Solid Grey Dresses,United Colors of Benetton,1688
+10634,Men,Footwear,Shoes,Formal Shoes,Black,Winter,2012,Formal,Carlton London Men Black Oxford Wingtip Brogues,Carlton London,2789
+10250,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Hahk Brown Handbags,Murcia,1737
+10062,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Puma Men Puma runhard tee Grey Tshirts,Puma,1045
+10857,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men Rider Striper Polo White T-Shirts,Wrangler,824
+10259,Men,Apparel,Bottomwear,Trousers,Black,Fall,2011,Formal,John Miller Men Reglur Black Trousers,John Miller,1760
+10292,Women,Footwear,Shoes,Heels,Brown,Summer,2015,Casual,Clarks Women Brown Leather Heels,Clarks,2210
+10266,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Clarks Men Goto Hi Cola Suede Brown Shoes,Clarks,2441
+10054,Boys,Apparel,Topwear,Tshirts,Blue,Summer,2011,Sports,Reebok Kids Kkr Boy's Premium Blue Jerseys,Reebok Kids Kkr Boy's Premium Blue Jerseys,1227
+10430,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Flying Machine Men Ydc Blue Shirts,Flying Machine,808
+10602,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Sports,Nike Men Football Soccer Red Jerseys,Nike,1036
+10850,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men Famous Filafil Blue T-Shirts,Wrangler,961
+10408,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,United Colors of Benetton Women Solid Black Tops,United Colors of Benetton,1460
+10098,Men,Accessories,Watches,Watches,White,Winter,2016,Casual,Fastrack Men Analogue Plastic White Watch,Fastrack,3426
+10605,Women,Accessories,Watches,Watches,Pink,Winter,2016,Casual,Esprit Women Houston Funny Pink Watches,Esprit,2504
+10437,Men,Apparel,Topwear,Shirts,Green,Fall,2011,Casual,Flying Machine Men HS Green Shirts,Flying Machine,991
+10053,Women,Apparel,Topwear,Tshirts,Pink,Summer,2011,Casual,Gini And Jony Vini Romper Pink T-Shirts,Gini And Jony Vini Romper Pink T-Shirts,955
+10261,Men,Apparel,Bottomwear,Trousers,Brown,Fall,2011,Formal,John Miller Men Slim Brown Trousers,John Miller,1894
+10295,Men,Footwear,Shoes,Casual Shoes,Brown,Summer,2016,Casual,Clarks Men Brown Leather Casual Shoes,Clarks,1812
+10463,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Flying Machine Men Grey Polo Tshirts,Flying Machine,1302
+10235,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Carrera Men Hexagaon Dial Black Watches,Carrera,2280
+10007,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Sports,Nike Women As Trophy Swo White T-Shirts,Nike,1380
+10497,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Women RN HS White Tshirts,Flying Machine,1240
+10804,Men,Footwear,Flip Flops,Flip Flops,White,Fall,2011,Casual,Wrangler Men Rider Solid White Shirts,Wrangler,392
+10490,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011,Casual,Flying Machine Men HS Blue Shirts,Flying Machine,1180
+10000,Women,Apparel,Bottomwear,Skirts,White,Summer,2011,Casual,Palm Tree Girls Sp Jace Sko White Skirts,Palm Tree,1185
+10656,Women,Apparel,Topwear,Tops,Pink,Fall,2011,Casual,Doodle Girl Little frock Pink Tops,Doodle Girl Little frock Pink Tops,942
+10464,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Flying Machine Men Mauvemist Pink Tshirts,Flying Machine,850
+10669,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Doodle Boy Road Trip Grey Tshirts,Doodle Boy Road Trip Grey Tshirts,1033
+10803,Men,Apparel,Topwear,Shirts,White,Fall,2011,Casual,Wrangler Men Dodge Broad Accent Check White Shirts,Wrangler,1227
+10694,Women,Apparel,Topwear,Tops,Pink,Fall,2011,Casual,Doodle Girl Be Born Pink Tops,Doodle Girl Be Born Pink Tops,1497
+10660,Women,Apparel,Bottomwear,Shorts,Blue,Fall,2011,Casual,Doodle Girl Hot shorts ice wash Blue Shorts,Doodle Girl Hot shorts ice wash Blue Shorts,1556
+10452,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Flying Machine Men HS Grey Tshirts,Flying Machine,1068
+10204,Women,Accessories,Bags,Handbags,Purple,Winter,2015,Casual,Murcia Women Hahk Purple Handbags,Murcia,1120
+10499,Women,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Flying Machine Women Aspen Yellow Tshirts,Flying Machine,1079
+10835,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Wrangler Men Black Polo Tshirts,Wrangler,1243
+10009,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Sports,Nike Men Town Round Red Neck T-Shirts,Nike,1036
+10203,Women,Accessories,Bags,Handbags,Red,Winter,2015,Casual,Murcia Women Hahk Red Handbags,Murcia,1598
+10031,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Sports,Nike Men As Arsenal Co Navy Blue T-Shirts,Nike,835
+10455,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Flying Machine Men Mauvemist Purple Tshirts,Flying Machine,1150
+10693,Women,Apparel,Topwear,Tops,Purple,Fall,2011,Casual,Doodle Girl Cute Purple Tops,Doodle Girl Cute Purple Tops,1307
+10658,Women,Apparel,Topwear,Tops,White,Fall,2011,Casual,Doodle Girl Little frock White Tops,Doodle Girl Little frock White Tops,1381
+10832,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,Wrangler Men American Music Folk Green T-Shirts,Wrangler,1196
+10099,Men,Accessories,Watches,Watches,Grey,Winter,2016,Casual,Fastrack Men Analogue Grey Watches,Fastrack,3447
+10851,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011,Casual,Wrangler Men Applique Polo Brown T-Shirts,Wrangler,1249
+10409,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,United Colors of Benetton Men Green Polo Tshirts,United Colors of Benetton,868
+10294,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2012,Formal,Clarks Men Feeling Good Leather Brown Formal Shoes,Clarks,1788
+10436,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Flying Machine Men Pink Polo Tshirts,Flying Machine,1314
+10604,Unisex,Accessories,Headwear,Caps,Red,Fall,2011,Sports,Nike Unisex Tennis Red Caps,Nike Unisex Tennis Red Caps,451
+10260,Men,Apparel,Bottomwear,Trousers,Grey,Fall,2011,Formal,John Miller Men Line Grey Trousers,John Miller,1775
+10052,Women,Apparel,Bottomwear,Shorts,Black,Fall,2011,Casual,Puma Women Trunk Black Shorts,Puma,1275
+10258,Men,Apparel,Bottomwear,Trousers,Navy Blue,Fall,2011,Formal,John Miller Men Line Navy Blue Trousers,John Miller,1147
+10856,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Wrangler Men Black Polo Tshirts,Wrangler,1329
+10869,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men Fly The Wind White T-Shirts,Wrangler,1214
+10267,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,Clarks Men Rocco Fuse Black Leather Black Casual Shoes,Clarks,1779
+10603,Unisex,Accessories,Headwear,Caps,Grey,Fall,2011,Sports,Nike Unisex Tennis Grey Caps,Nike Unisex Tennis Grey Caps,723
+10431,Men,Apparel,Topwear,Shirts,Grey,Fall,2011,Casual,Flying Machine Men Ydc Grey Shirts,Flying Machine,876
+10293,Men,Footwear,Sandal,Sandals,Brown,Spring,2012,Casual,Clarks Men Unstructured Leather Brown Sandals,Clarks,1233
+10438,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011,Casual,Flying Machine Men Midrise Blue Jeans,Flying Machine,1451
+10635,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,Carlton London Men Semi oxfords Black Casual Shoes,Carlton London,2397
+10407,Men,Apparel,Topwear,Shirts,Grey,Fall,2011,Formal,United Colors of Benetton Men Solid Grey Shirts,United Colors of Benetton,1460
+10063,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Puma Men spine tee Yellow Tshirts,Puma,1062
+10097,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Men Reeflex Run White Sports Shoes,Reebok,2030
+10867,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Wrangler Men Navy Blue Tough Service Navy T-shirt,Wrangler,1119
+10269,Women,Footwear,Shoes,Flats,Red,Winter,2013,Casual,Clarks Women Silvi Spice Raspberry Leather Red Flats,Clarks,2307
+10256,Men,Apparel,Topwear,Shirts,Green,Fall,2011,Casual,Locomotive Men Stripes Green Shirts,Locomotive,1114
+10858,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men Furious Rides White T-Shirts,Wrangler,1239
+10064,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Puma Men puma shield tee Yellow Tshirts,Puma,1395
+10400,Women,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Women Flux Shadow  266 Black Watches,Puma,4244
+10632,Men,Footwear,Shoes,Casual Shoes,Brown,Winter,2012,Casual,Carlton London Men Brown Shoes,Carlton London,2333
+10692,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Doodle Boy Casual Red Tshirts,Doodle Boy Casual Red Tshirts,1062
+10030,Women,Apparel,Topwear,Tshirts,Black,Fall,2011,Sports,Nike Women As See The Win Black T-Shirts,Nike,860
+10202,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women Asjke Green Green Handbags,Murcia,2488
+10454,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Flying Machine Men Gloden Haze Yellow Tshirts,Flying Machine,1450
+10833,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Wrangler Men Rope Embro Polo Red T-Shirt,Wrangler,1056
+10453,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Flying Machine Men Gloden Haze Yellow Tshirts,Flying Machine,1407
+10661,Women,Apparel,Bottomwear,Shorts,Blue,Fall,2011,Casual,Doodle Girl Hot  Ice Wash Blue Shorts,Doodle Girl Hot Ice Wash Blue Shorts,1206
+10205,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Rubena Brown Handbags,Murcia,1953
+10037,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011,Sports,Reebok Men Premier ultra 8 U-form Silver Sports Shoes,Reebok,2378
+10008,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Sports,Nike Men Town Navy Blue T-Shirts,Nike,1009
+10834,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Grey Polo Tshirts,Wrangler,1251
+10498,Women,Apparel,Topwear,Tops,Navy Blue,Fall,2011,Casual,Flying Machine Women RN Blue Tops,Flying Machine,1049
+10001,Women,Apparel,Bottomwear,Skirts,Blue,Summer,2011,Casual,Palm Tree Kids Girls Sp Jema Skt Blue Skirts,Palm Tree Kids,1564
+10465,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,Flying Machine Men Paisley Purple Tshirts,Flying Machine,1256
+10491,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Women HS White Tshirts,Flying Machine,1488
+10802,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Wrangler Men Dodge Broad Accent Check Blue Shirt,Wrangler,1240
+10496,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Women RN White Tshirts,Flying Machine,836
+10650,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Doodle Boy Grand Prix Navy Blue Shirt,Doodle Boy Grand Prix Navy Blue Shirt,1496
+10462,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Men White Polo Tshirts,Flying Machine,1430
+10006,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Sports,Nike Men AS T90 Black Tshirts,Nike,815
+10039,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Men Raceon White Sports Shoes,Reebok,2910
+10805,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Wrangler Men Rider Solid Black Shirts,Wrangler,852
+10379,Women,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,United Colors of Benetton Women Solid Red T-shirt,United Colors of Benetton,1143
+10174,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,United Colors Of Benetton Men Latnam Black Casual Shoes,United Colors Of Benetton,1636
+10346,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,United Colors of Benetton Women Printed Purple Tshirts,United Colors of Benetton,1202
+10722,Men,Apparel,Topwear,Tshirts,White,Summer,2011,Casual,Nike Men Casual short sleeve tshirt White Tshirts,Nike,822
+10510,Women,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Flying Machine Women RN HS Grey Tshirts,Flying Machine,1343
+10180,Men,Footwear,Flip Flops,Flip Flops,Yellow,Fall,2011,Casual,United Colors of Benetton Men Speeder Yellow Flip Flops,United Colors of Benetton,496
+10187,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Indigo Nation Men Hot Stepper Black Blue Shirts,Indigo Nation,832
+10517,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,New Balance MC900 Men Others Tennis White Sports Shoes,New Balance MC900,2305
+10725,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women Green Green Handbags,Murcia,1004
+10341,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,United Colors of Benetton Men Printed Pink Tshirts,United Colors of Benetton,949
+10173,Men,Footwear,Sandal,Sandals,Brown,Fall,2011,Casual,United Colors of Benetton Men Tango Brown Sandals,United Colors of Benetton,809
+10348,Women,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,United Colors of Benetton Women Printed Yellow T-shirt,United Colors of Benetton,1387
+10383,Men,Accessories,Watches,Watches,White,Winter,2016,Casual,Puma Men Star Dust 145 White Watches,Puma,4695
+10377,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,United Colors of Benetton Men Printed White Tshirts,United Colors of Benetton,948
+10145,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011,Formal,Rockport Men Drsp Wingtip Brown Formal Shoes,Rockport,2195
+10713,Women,Apparel,Bottomwear,Capris,Blue,Winter,2011,Sports,Nike Women Blue Dri-Fit Capris,Nike,1315
+10189,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Indigo Nation Men Hot Stepper Blue Shirts,Indigo Nation,827
+10714,Women,Apparel,Bottomwear,Track Pants,Black,Summer,2011,Sports,Nike Women Trainng track pants Black Track Pants,Nike,1777
+10142,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Rockport Men Captoe Brown Casual Shoes,Rockport,2724
+10370,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,United Colors of Benetton Women White T-shirt,United Colors of Benetton,970
+10384,Women,Accessories,Watches,Watches,Purple,Winter,2016,Casual,Puma Women Fluctuation Stones 159 Blue Watch,Puma,2713
+10572,Men,Apparel,Topwear,Sweaters,Red,Fall,2011,Casual,Puma Men Knitted Red Sweaters,Puma,1357
+10740,Unisex,Footwear,Flip Flops,Flip Flops,Green,Winter,2012,Casual,Disney Unisex Kids Pluto Green Flip Flops,Disney Unisex Kids Pluto Green Flip Flops,563
+10324,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,Puma Women Heather USP Black Tshirts,Puma,913
+10129,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011,Formal,Rockport Men Jefford Brown Formal Shoes,Rockport,1751
+10581,Men,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Men Athletic Black Steel Watches,Esprit,4055
+10111,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011,Sports,Reebok Men Premier road supreme 2 Silver Sports Shoes,Reebok,2019
+10323,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Lambretta Green Black Handbags,Murcia,1255
+10747,Unisex,Footwear,Sandal,Sandals,Pink,Winter,2012,Casual,Disney Unisex Kids Daisy Pink Sandals,Disney Unisex Kids Daisy Pink Sandals,1607
+10575,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Puma Women Ess Pink Polo Tshirts,Puma,860
+10778,Men,Apparel,Bottomwear,Shorts,Navy Blue,Summer,2011,Sports,Nike Men Training Navy Blue Shorts,Nike,1478
+10785,Unisex,Accessories,Headwear,Caps,Grey,Fall,2011,Sports,Nike Unisex Runng Grey Caps,Nike Unisex Runng Grey Caps,818
+10771,Girls,Footwear,Shoes,Casual Shoes,Red,Winter,2012,Casual,Disney Kids Red Casual Shoes,Disney Kids Red Casual Shoes,1682
+10127,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Rockport Men Espresso Brown Casual Shoes,Rockport,2201
+10315,Women,Accessories,Watches,Watches,Gold,Winter,2016,Casual,Esprit Women Rough Chic Gold Watch,Esprit,2896
+10588,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Carrera Men Round Dial PU Strap Black Watches,Carrera,3401
+10312,Women,Accessories,Watches,Watches,Silver,Winter,2016,Casual,Esprit Women Spark Black White Silver Watches,Esprit,2647
+10776,Men,Apparel,Topwear,Tshirts,Red,Summer,2011,Sports,Nike Men Athletic Red Tshirts,Nike,1072
+10749,Unisex,Footwear,Flip Flops,Flip Flops,Red,Winter,2012,Casual,Disney Unisex Kids Mickey Star Red Flip Flops,Disney Unisex Kids Mickey Star Red Flip Flops,652
+10188,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Indigo Nation Men   Blue & White Stripe Shirt,Indigo Nation,1186
+10385,Women,Accessories,Watches,Watches,White,Winter,2016,Casual,Puma Women Vitality Stones 168 White Watches,Puma,2048
+10715,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,Nike Women Training sports bra Black Tops,Nike,1392
+10371,Men,Apparel,Topwear,Sweatshirts,Black,Fall,2011,Casual,United Colors of Benetton Men Printed Black Sweatshirt,United Colors of Benetton,972
+10143,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011,Formal,Rockport Men Moc Front Brown Formal Shoes,Rockport,2704
+10144,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Rockport Men Drsp Wingtip Brown Casual Shoes,Rockport,2258
+10376,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,United Colors of Benetton Men Printed Blue Tshirts,United Colors of Benetton,1136
+10712,Women,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Nike Women Casual short sleeve tshirt Blue Tshirts,Nike,823
+10382,Women,Apparel,Topwear,Tops,Grey,Fall,2011,Casual,United Colors of Benetton Women Grey Top,United Colors of Benetton,1321
+10724,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Black Black Handbags,Murcia,2061
+10172,Men,Footwear,Shoes,Casual Shoes,Grey,Fall,2011,Casual,United Colors of Benetton Men Iceland Grey Casual Shoes,United Colors of Benetton,2195
+10340,Women,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,United Colors of Benetton Women Green Polo T-shirt,United Colors of Benetton,1443
+10186,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Indigo Nation Men Black & Blue Stripe Shirt,Indigo Nation,1093
+10378,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,United Colors of Benetton Men Printed Black Tshirts,United Colors of Benetton,1189
+10181,Women,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Women Pliancy Black Watches,Puma,3436
+10347,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,United Colors of Benetton Men Printed Purple Tshirts,United Colors of Benetton,1438
+10175,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,United Colors of Benetton Men Wango Black Casual Shoes,United Colors of Benetton,1559
+10511,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,Flying Machine Women RN Black Tshirts,Flying Machine,1407
+10723,Men,Apparel,Topwear,Tshirts,White,Summer,2012,Sports,Nike Men Trainng Men's tshirt White Tshirts,Nike,1198
+10783,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,New Balance M364 Men Others Xtraining White Sports Shoes,New Balance M364,1593
+10313,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Cool Chic White Steel Watches,Esprit,2841
+10777,Women,Apparel,Topwear,Jackets,Purple,Summer,2011,Sports,Nike Women Hooded Purple Jacket,Nike,1252
+10748,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Winter,2012,Casual,Disney Unisex Kids Basic Navy Blue Flip Flops,Disney Unisex Kids Basic Navy Blue Flip Flops,480
+10770,Girls,Footwear,Shoes,Casual Shoes,Red,Winter,2012,Casual,Disney Kids Red Casual Shoes,Disney Kids Red Casual Shoes,2236
+10314,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women E-Ffect Black With White Dial Steel Watch,Esprit,4705
+10126,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Men Runtone Action White Sports Shoes,Reebok,2694
+10784,Unisex,Accessories,Headwear,Caps,Black,Fall,2011,Sports,Nike Unisex Runng Black Caps,Nike Unisex Runng Black Caps,943
+10322,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Lambretta Black Green Handbags,Murcia,1317
+10110,Women,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Women Instant White Sports Shoes,Reebok,2104
+10574,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Puma Men Bts Navy Blue Tshirts,Puma,1268
+10746,Unisex,Footwear,Flip Flops,Flip Flops,Purple,Winter,2012,Casual,Disney Unisex Kids Princess Heart Purple Flip Flops,Disney Unisex Kids Princess Heart Purple Flip Flops,544
+10580,Men,Accessories,Watches,Watches,Copper,Winter,2016,Casual,Esprit Men Athletic Rosegold Copper Watches,Esprit,2737
+10587,Men,Accessories,Watches,Watches,White,Winter,2016,Casual,Carrera Men Careera dial steel strap patch White Watches,Carrera,2792
+10741,Unisex,Footwear,Flip Flops,Flip Flops,Yellow,Winter,2012,Casual,Disney Unisex Kids Mickey Mouse Yellow Flip Flops,Disney Unisex Kids Mickey Mouse Yellow Flip Flops,775
+10573,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Puma Men Heritage Navy Blue Polo Tshirts,Puma,1438
+10117,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011,Sports,Reebok Men Premier Zigfly Silver Sports Shoes,Reebok,2676
+10325,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Men Atlantis Black Watches,Puma,4932
+10128,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011,Formal,Rockport Men Drsp Wingtip Black Formal Shoes,Rockport,1609
+10338,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,United Colors of Benetton Men Solid Polo White Tshirts,United Colors of Benetton,1153
+10797,Men,Apparel,Topwear,Shirts,White,Fall,2011,Casual,Wrangler Men Urban Big Check White Shirts,Wrangler,1299
+10307,Women,Footwear,Shoes,Flats,Silver,Fall,2011,Casual,Clarks Women Arizona Metallic Leather Silver Ballerinas,Clarks,1704
+10135,Women,Accessories,Watches,Watches,Silver,Winter,2016,Casual,Esprit Women Lissomy Glam White Silver Watches,Esprit,4604
+10763,Men,Apparel,Topwear,Tshirts,Blue,Summer,2012,Sports,Nike Men Trainng Blue T-shirt,Nike,1113
+10569,Women,Apparel,Topwear,Tops,White,Fall,2011,Casual,Puma Women Ess White Polo Tshirts,Puma,995
+10764,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Bts Black Tshirts,Puma,913
+10300,Men,Footwear,Sandal,Sandals,Brown,Summer,2016,Casual,Clarks Men Brown Wild Vibe Leather Closed Sandals,Clarks,1312
+10790,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Wrangler Men Manitoba Piping Blue Shirts,Wrangler,977
+10309,Women,Footwear,Shoes,Flats,White,Winter,2013,Casual,Clarks Women White Leather Flats,Clarks,2196
+10799,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011,Casual,Wrangler Men Wander Wheels Navy Blue Shirts,Wrangler,1407
+10104,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011,Sports,Reebok Men Buckets VI Black Sports Shoes,Reebok,1760
+10336,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,United Colors of Benetton Women Stripes Black Tops,United Colors of Benetton,1016
+10752,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Sports,Nike Men Hell With White Tshirts,Nike,847
+10594,Women,Accessories,Watches,Watches,Pink,Winter,2016,Casual,Esprit Women Houston Funky Pink Pink Watches,Esprit,3417
+10593,Women,Accessories,Watches,Watches,Purple,Winter,2016,Casual,Esprit Women Houston Purple Ice Purple Watches,Esprit,4561
+10567,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Puma Women Striped Polo Pink Tshirts,Puma,1087
+10755,Women,Footwear,Shoes,Casual Shoes,Pink,Winter,2012,Casual,Disney Kids Princess Heart Pink Casual Shoes,Disney Kids Princess Heart Pink Casual Shoes,2997
+10331,Men,Accessories,Belts,Belts,Black,Fall,2011,Casual,Indigo Nation Men basalt Black Belts,Indigo Nation,1037
+10391,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Men Drift 244 Black Watches,Puma,3961
+10701,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Silver Houston Steel Watches,Esprit,4774
+10533,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011,Sports,New Balance MW631 Men Others Walking Black Sports Shoes,New Balance MW631,2737
+10157,Unisex,Footwear,Flip Flops,Flip Flops,Blue,Fall,2011,Casual,Puma Unisex Puma Flips Blue Flip Flops,Puma Unisex Puma Flips Blue Flip Flops,676
+10365,Women,Apparel,Dress,Dresses,Black,Fall,2011,Casual,United Colors of Benetton Women Short Black Dresses,United Colors of Benetton,2387
+10168,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,United Colors of Benetton Men Punk Black Casual Shoes,United Colors of Benetton,2355
+10362,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,United Colors of Benetton Women Purple Polo T-shirt,United Colors of Benetton,1142
+10150,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011,Formal,Rockport Men Drsp Plaintoe Black Formal Shoes,Rockport,2266
+10706,Women,Accessories,Watches,Watches,Gold,Winter,2016,Casual,Esprit Women Lissomy Two Tone Gold Watches,Esprit,3400
+10396,Men,Accessories,Watches,Watches,Black,Winter,2016,Sports,Puma Men Atlantis All Black Watches,Puma,2802
+10998,Men,Accessories,Watches,Watches,Black,Winter,2016,Sports,Puma Men Blockbuster Red Black Watches,Puma,4426
+10739,Unisex,Footwear,Flip Flops,Flip Flops,Black,Winter,2012,Casual,Disney Unisex Kids Basic Black Flip Flops,Disney Unisex Kids Basic Black Flip Flops,362
+10502,Women,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Flying Machine Women Ocean Blue Tshirts,Flying Machine,1470
+10730,Women,Accessories,Bags,Handbags,Grey,Winter,2015,Casual,Murcia Women Lorra Grey Grey Handbags,Murcia,2466
+10354,Women,Apparel,Topwear,Tops,Blue,Fall,2011,Casual,United Colors of Benetton Women Checks Blue Tops,United Colors of Benetton,956
+10166,Men,Footwear,Flip Flops,Flip Flops,Red,Fall,2011,Casual,United Colors of Benetton Men Carribean Red Flip Flops,United Colors of Benetton,437
+10192,Men,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Men Avalance Black Steel Watches,Esprit,4035
+10159,Men,Footwear,Shoes,Casual Shoes,White,Fall,2011,Casual,Puma Men 917 Mid Spill White Casual Shoes,Puma,2713
+10991,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011,Casual,Inkfruit Men Havy Metal Brown Tshirts,Inkfruit,1426
+10195,Men,Accessories,Watches,Watches,Blue,Winter,2016,Casual,Carrera Men Steel strap dial Blue Watches,Carrera,3623
+10161,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Puma Men Cabana Racer White Sports Shoes,Puma,1783
+10737,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Hmzaab Black Handbags,Murcia,1329
+10505,Women,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Flying Machine Women RN HS Yellow Tshirts,Flying Machine,1237
+10398,Men,Accessories,Watches,Watches,Black,Winter,2016,Sports,Puma Men Cardiac II Black Watches,Puma,4623
+10996,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011,Casual,Inkfruit Men Too Drunk Brown Tshirts,Inkfruit,1420
+10708,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Nike Men Logo T-shirt Black Tshirts,Nike,911
+10754,Unisex,Footwear,Flip Flops,Flip Flops,Blue,Winter,2012,Casual,Disney Unisex Kids Mickey Star Blue Flip Flops,Disney Unisex Kids Mickey Star Blue Flip Flops,535
+10566,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Puma Men Rugby Grey Tshirts,Puma,1394
+10102,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011,Sports,Reebok Men Premier Verona Supreme 2 Black Sports Shoes,Reebok,1648
+10330,Men,Accessories,Belts,Belts,Black,Fall,2011,Casual,Indigo Nation Men Alnoite Black Belts,Indigo Nation,1011
+10308,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2012,Casual,Clarks Men Brown Leather Boat Shoes,Clarks,1947
+10595,Women,Free Items,Free Gifts,Free Gifts,Grey,Winter,2016,Casual,Esprit Women Cascade Grey Dial Watch,Esprit,53
+10105,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Fastrack Women Analogue Leather Steel Watches,Fastrack,2056
+10753,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Winter,2012,Casual,Disney Unisex Kids Basic Navy Blue Flip Flops,Disney Unisex Kids Basic Navy Blue Flip Flops,323
+10568,Men,Apparel,Topwear,Sweaters,Navy Blue,Fall,2011,Casual,Puma Men Knitted Navy Blue Sweater,Puma,1060
+10791,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Wrangler Men Manitoba Piping Black Shirts,Wrangler,1152
+10765,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Winter,2012,Casual,Disney Unisex Kids Basic Navy Blue Flip Flops,Disney Unisex Kids Basic Navy Blue Flip Flops,608
+10301,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Clarks Brown Leather Casual Shoes,Clarks Brown Leather Casual Shoes,2603
+10133,Women,Accessories,Watches,Watches,Silver,Winter,2016,Casual,Esprit Women Rough Chic Black Silver Watches,Esprit,4899
+10339,Women,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,United Colors of Benetton Women Black Polo T-shirt,United Colors of Benetton,936
+10134,Women,Accessories,Watches,Watches,Silver,Winter,2016,Casual,Esprit Women Lissomy Glam Black Silver Watches,Esprit,4772
+10306,Men,Footwear,Shoes,Casual Shoes,Grey,Fall,2011,Casual,Clarks Men Rocco Fuse Leather Grey Casual Shoes,Clarks,2675
+10762,Unisex,Footwear,Flip Flops,Flip Flops,Yellow,Winter,2012,Casual,Disney Unisex Kids Basic Yellow Flip Flops,Disney Unisex Kids Basic Yellow Flip Flops,303
+10796,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,Wrangler Men Warnick Square Block Red Shirts,Wrangler,1290
+10352,Men,Apparel,Topwear,Shirts,White,Fall,2011,Casual,United Colors of Benetton Men Solid White Shirts,United Colors of Benetton,1366
+10160,Men,Footwear,Shoes,Casual Shoes,White,Fall,2011,Casual,Puma Men 917 Lo Paint Splatter White Casual Shoes,Puma,2485
+10504,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Women RN HS White Tshirts,Flying Machine,1354
+10736,Women,Accessories,Bags,Handbags,Red,Winter,2015,Casual,Murcia Women Mcc Red Red Handbags,Murcia,1986
+10194,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Carrera Men Sqaure dial leather strap Black Watches,Carrera,4183
+10709,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011,Sports,Nike Women Trainng short sleeve tshirt Purple Tshirts,Nike,1262
+10997,Men,Accessories,Watches,Watches,Silver,Winter,2016,Casual,Puma Men Track White Silver Watches,Puma,2268
+10399,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Men Cardiac 209 Black Watches,Puma,4452
+10193,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Carrera Men Dial Green Numbers Black Watch,Carrera,4998
+10731,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Lorra Coffee Brown Handbags,Murcia,2408
+10503,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Women RN HS White Tshirts,Flying Machine,1206
+10167,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,United Colors of Benetton Men Nighthawk Black Casual Shoes,United Colors of Benetton,2308
+10355,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Formal,United Colors of Benetton Men Stripes Blue Shirts,United Colors of Benetton,836
+10990,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Inkfruit Women Irritating Pink Tshirts,Inkfruit,934
+10158,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,Puma Men 917 Lo Feuer Black Casual Shoes,Puma,1825
+10999,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Men Rod Yellow Black Watches,Puma,4324
+10397,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Men Slick Gents 3 Black Watches,Puma,3584
+10151,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011,Formal,Rockport Men Drsp Slip On Black Formal Shoes,Rockport,2438
+10363,Women,Apparel,Topwear,Tops,Grey,Fall,2011,Casual,United Colors of Benetton Women Solid Grey Tops,United Colors of Benetton,1070
+10707,Women,Accessories,Watches,Watches,Gold,Winter,2016,Casual,Esprit Women Open Link Gold Gold Watch,Esprit,2450
+10738,Women,Accessories,Watches,Watches,Pink,Winter,2016,Casual,Puma Women Slick Ladies 3HD Pink Pink Watches,Puma,2067
+10700,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Pure Black Glam Rock Houston Steel Watches,Esprit,3929
+10364,Men,Apparel,Topwear,Tshirts,Magenta,Fall,2011,Casual,United Colors of Benetton Men Solid Magenta T-shirt,United Colors of Benetton,836
+10156,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Rockport Men Sc Slip On Brown Casual Shoes,Rockport,2457
+10390,Women,Accessories,Watches,Watches,White,Winter,2016,Casual,Puma Women Finesse 233 White Watches,Puma,3832
+10169,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,United Colors of Benetton Men HIghlander Brown Casual Shoes,United Colors of Benetton,1958
+10827,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men White Celebrate Indigo T-shirt,Wrangler,1366
+10229,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Hths Black Handbags,Murcia,1617
+10216,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women Hths Green Handbags,Murcia,1793
+10024,Women,Apparel,Topwear,Tshirts,Black,Fall,2011,Sports,Nike Women As Make Yours Black T-Shirts,Nike,1248
+10818,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,Wrangler Men Urban Raiser Red Shirts,Wrangler,1335
+10440,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011,Casual,Flying Machine Men Ydc Green Shirts,Flying Machine,962
+10672,Girls,Apparel,Topwear,Tops,Purple,Fall,2011,Casual,Doodle Girls Little song board Purple Tops,Doodle,1443
+10820,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011,Casual,Wrangler Men City Work Navy Blue Shirts,Wrangler,1247
+10478,Men,Apparel,Topwear,Shirts,Maroon,Fall,2011,Casual,Flying Machine Men Ydc Maroon Shirts,Flying Machine,1097
+10675,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,Doodle Girl Princess Black Tops,Doodle Girl Princess Black Tops,1039
+10447,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Flying Machine Men Yellow Polo Tshirts,Flying Machine,1177
+10023,Women,Apparel,Bottomwear,Track Pants,Grey,Fall,2011,Sports,Nike Women Regular Grey Track Pants,Nike,1073
+10211,Women,Accessories,Bags,Handbags,Grey,Winter,2015,Casual,Murcia Women Lambretta Grey Handbags,Murcia,2353
+10681,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,United Colors of Benetton Men Printed Grey Tshirts,United Colors of Benetton,1313
+10816,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,Wrangler Men Country Eagle Red Shirt,Wrangler,1327
+10015,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Locomotive Men American Glory White Tshirts,Locomotive,845
+10829,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men Blue Polo Tshirts,Wrangler,1047
+10227,Women,Accessories,Bags,Handbags,Purple,Winter,2015,Casual,Murcia Women SLB Bag Purple Handbags,Murcia,1501
+10643,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Doodle Boy D Print Blue Tshirts,Doodle Boy D Print Blue Tshirts,838
+10471,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Flying Machine Men Chrysanthemum Red Tshirts,Flying Machine,1354
+10485,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011,Casual,Flying Machine Men Midrise Blue Jeans,Flying Machine,1058
+10811,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,Wrangler Men Rodeo 47 Tab Pkt Red Shirts,Wrangler,1204
+10449,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Flying Machine Men Black Polo Tshirts,Flying Machine,1463
+10482,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Flying Machine Men Ydc Blue Shirts,Flying Machine,942
+10476,Men,Apparel,Topwear,Shirts,Pink,Fall,2011,Casual,Flying Machine Men Ydc Pink Shirts,Flying Machine,1169
+10644,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Doodle Boy D Print Blue Tshirts,Doodle Boy D Print Blue Tshirts,1047
+10220,Women,Accessories,Bags,Handbags,Pink,Winter,2015,Casual,Murcia Women Mary Pink Handbags,Murcia,2996
+10012,Men,Apparel,Bottomwear,Track Pants,Navy Blue,Fall,2011,Sports,Nike Men's Breakli Navy Blue Track Pants,Nike,1448
+10280,Women,Footwear,Shoes,Flats,Black,Fall,2012,Casual,Clarks Women Prize Club Leather Black Wedges,Clarks,2533
+10610,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Flying Machine Men Green Polo Tshirts,Flying Machine,907
+10046,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,Puma Men Heroes Graphic Green Tshirts,Puma,1115
+10274,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011,Formal,Clarks Men Dino Limit Leather Black Formal Shoes,Clarks,1644
+10845,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Wrangler Men Falcon Print Red T-Shirts,Wrangler,1163
+10079,Unisex,Footwear,Sandal,Sandals,Black,Fall,2011,Casual,Reebok Unisex Twist Black Sandals,Reebok Unisex Twist Black Sandals,907
+10273,Men,Footwear,Sandal,Sandals,Black,Summer,2016,Casual,Clarks Men Black Leather Closed Sandals,Clarks,1040
+10041,Women,Apparel,Topwear,Tshirts,Brown,Fall,2011,Sports,Nike Women Brown Polo T-shirt,Nike,966
+10425,Men,Apparel,Topwear,Shirts,Green,Fall,2011,Casual,United Colors of Benetton Men Checks Green Shirt,United Colors of Benetton,1244
+10287,Women,Footwear,Shoes,Flats,Silver,Winter,2013,Casual,Clarks Women Leather Silver Flats,Clarks,2830
+10628,Men,Footwear,Shoes,Casual Shoes,Navy Blue,Winter,2012,Casual,Carlton London Men CL Casual Navy Blue Casual Shoes,Carlton London,1587
+10842,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Celebrate Polo Grey T-Shirt,Wrangler,856
+10413,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,United Colors of Benetton Men Printed Grey Tshirts,United Colors of Benetton,1398
+10621,Women,Footwear,Shoes,Flats,Silver,Spring,2013,Casual,Carlton London Women Silver Solid Open Toe,Carlton London,2120
+10245,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women TMK Green Green Handbags,Murcia,2436
+10083,Men,Footwear,Flip Flops,Flip Flops,Green,Fall,2011,Casual,Reebok Men Hanavi II Green Flip Flops,Reebok,644
+10874,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Wrangler Men Wrangler Station Navy Blue T-Shirts,Wrangler,907
+10048,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Social Sport Black Tshirts,Puma,1046
+10880,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Wrangler Men All The Way Photo Print Navy Blue T-Shirts,Wrangler,1160
+10070,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Puma Women Large logo tee Pink Tshirts,Puma,1299
+10242,Women,Accessories,Bags,Handbags,Grey,Winter,2015,Casual,Murcia Women Mary Grey Handbags,Murcia,1008
+10626,Men,Footwear,Shoes,Casual Shoes,Green,Winter,2012,Casual,Carlton London Men CL Casual Green Casual Shoes,Carlton London,2514
+10414,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,United Colors of Benetton Women Solid Purple T-shirt,United Colors of Benetton,937
+10289,Women,Footwear,Shoes,Heels,Black,Fall,2012,Casual,Clarks Women Soma Silk Leather Black Heels,Clarks,1501
+10619,Women,Footwear,Shoes,Flats,Silver,Spring,2013,Casual,Carlton London Women Silver Flats,Carlton London,2490
+10873,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Wrangler Station Grey T-Shirts,Wrangler,884
+10810,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Wrangler Men Mark Rodeo Riveted Blue Shirts,Wrangler,1390
+10448,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Flying Machine Men Grey Polo Tshirts,Flying Machine,1205
+10645,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Doodle Boy Athlethic Red Tshirts,Doodle Boy Athlethic Red Tshirts,1445
+10477,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Flying Machine Men Ydc Blue Shirts,Flying Machine,1344
+10013,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Sports,Nike Men As Ss Cruiser Yellow T-Shirts,Nike,1490
+10221,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women Emma Green Handbags,Murcia,2590
+10483,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Flying Machine Men Damson Maroon Tshirts,Flying Machine,1428
+10689,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Doodle Boy Casual White Tshirts,Doodle Boy Casual White Tshirts,965
+10817,Men,Apparel,Topwear,Shirts,Green,Fall,2011,Casual,Wrangler Men Urban Raiser Green Shirts,Wrangler,1166
+10219,Men,Accessories,Watches,Watches,Yellow,Winter,2016,Casual,Carrera Men Strap dial Yellow Watches,,3751
+10484,Men,Apparel,Topwear,Shirts,Purple,Fall,2011,Casual,Flying Machine Men FS Purple Shirts,,1407
+10226,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Rubena Black Handbags,,1237
+10828,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Wrangler Men Navy Blue Polo Tshirts,,962
+10014,Unisex,Accessories,Headwear,Caps,Blue,Fall,2011,Sports,Nike Unisex Feather lite Blue Caps,,771
+10470,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Flying Machine Men Grey Tshirts,,1005
+10642,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Doodle Boy D Print Red Tshirts,,1213
+10821,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Wrangler Men Parma Reversible Blue Shirts,,980
+10479,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,Flying Machine Men FS Red Shirts,,821
+10680,Women,Accessories,Bags,Handbags,Blue,Fall,2011,Casual,United Colors of Benetton Blue Solid Sling Bag,,1389
+10446,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Flying Machine Men Red Polo Tshirts,,803
+10674,Women,Apparel,Topwear,Tops,White,Fall,2011,Casual,Doodle Girl Princess White Tops,,1051
+10210,Women,Accessories,Bags,Handbags,Red,Winter,2015,Casual,Murcia Women Kkhh Red Handbags,,2762
+10022,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Sports,Nike Men Blue Polo Tshirts,,1352
+10228,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women SLB Bag Green Handbags,,2202
+10826,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men White Polo Tshirts,,951
+10819,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Wrangler Men City Work Black Shirts,,1358
+10025,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011,Sports,Nike Women As Element Ja Pink T-Shirt,,1261
+10217,Women,Accessories,Bags,Handbags,Pink,Winter,2015,Casual,Murcia Women Kkhh Pink Handbags,,2083
+10673,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,Doodle Girl Ballet School Black Tops,,1107
+10441,Men,Apparel,Topwear,Shirts,Purple,Fall,2011,Casual,Flying Machine Men FS Purple Shirts,,1468
+10243,Women,Accessories,Bags,Handbags,Red,Winter,2015,Casual,Murcia Women Emma Red Handbags,,2970
+10071,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Puma Women bling blink tee White Tshirts,,937
+10415,Women,Apparel,Topwear,Tops,Beige,Fall,2011,Casual,United Colors of Benetton Women Printed Beige Tops,,1073
+10627,Men,Footwear,Shoes,Casual Shoes,Brown,Winter,2012,Casual,Carlton London Men Brown Slip-On Shoes,,2329
+10618,Women,Footwear,Flip Flops,Flip Flops,Black,Spring,2013,Casual,Carlton London Women Casual Black Slippers,,787
+10872,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men Dirtcross Blue T-Shirts,,1151
+10886,Men,Apparel,Topwear,Tshirts,Cream,Fall,2011,Casual,Wrangler Men Cream Mark Your Territory T-shirt,,927
+10288,Women,Footwear,Shoes,Flats,Brown,Winter,2013,Casual,Clarks Women Shona Fringe Leather Brown Flats,,2353
+10082,Women,Footwear,Shoes,Sports Shoes,Grey,Fall,2011,Sports,Reebok Women Aviator Grey Sports Shoes,,1577
+10620,Women,Footwear,Flip Flops,Flip Flops,Gold,Fall,2011,Casual,Carlton London Women Casual Gold Slippers,,311
+10412,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,United Colors of Benetton Men Printed Grey Tshirts,,1429
+10076,Women,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Women Large logo tee Black Tshirts,,978
+10244,Women,Accessories,Bags,Handbags,Beige,Winter,2015,Casual,Murcia Women Emma Beige Handbags,,1975
+10049,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Mns Body Train Black Tshirts,,930
+10875,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Motor City Grey T-Shirts,,1023
+10286,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2012,Formal,Clarks Men Hang Tough Leather Black Formal Shoes,,1527
+10040,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Sports,Nike Men White Polo Tshirts,,1089
+10272,Women,Footwear,Shoes,Heels,Grey,Fall,2012,Casual,Clarks Women Soma Silk Graphite Leather Grey Heels,,1732
+10616,Women,Footwear,Flip Flops,Flip Flops,Gold,Fall,2011,Casual,Carlton London Women Glitterati Gold Slippers,,782
+10424,Women,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,United Colors of Benetton Women Red Polo T-shirt,,1042
+10629,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,Carlton London Men Casual Black Casual Shoes,,2747
+10843,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Grey T-shirt,,1160
+10423,Men,Apparel,Topwear,Shirts,Grey,Fall,2011,Casual,United Colors of Benetton Men Checks Grey Shirts,,1117
+10611,Men,Apparel,Topwear,Shirts,Green,Fall,2011,Casual,Flying Machine Men FS Green Shirts,,913
+10275,Men,Footwear,Shoes,Formal Shoes,Black,Summer,2013,Formal,Clarks Men Black Leather Derbys,,2868
+10047,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Heroes Graphic Black Tshirts,,1482
+10281,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2012,Formal,Clarks Men Hang Spring Leather Black Formal Shoes,,2838
+10078,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Men Speed Mode White Sports Shoes,,1511
+10844,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,Wrangler Men Cowboy Freedom Green T-Shirts,,1051
+10493,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Women VN White Tshirts,,1324
+10231,Women,Accessories,Bags,Handbags,Red,Winter,2015,Casual,Murcia Women Claudia Red Handbags,,2505
+10003,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Sports,Nike Women As Nike Eleme White T-Shirt,,1256
+10467,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Flying Machine Men Blue Polo Tshirts,,919
+10655,Women,Apparel,Bottomwear,Skirts,Blue,Fall,2011,Casual,Doodle Girl Denim skirt with belt Blue Skirts,,1899
+10458,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,Flying Machine Men Green Polo Tshirts,,1086
+10800,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Wrangler Men Wander Wheels Blue Shirt,,928
+10652,Women,Apparel,Bottomwear,Skirts,Blue,Fall,2011,Casual,Doodle Girl Denim skirt with belt Blue Skirts,,1328
+10460,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,Flying Machine Green Polo Tshirts,,1489
+10004,Men,Apparel,Bottomwear,Shorts,Grey,Fall,2011,Sports,Nike Men As 7 Sw Temp Grey Shorts,,1207
+10236,Men,Accessories,Watches,Watches,Orange,Winter,2016,Casual,Carrera Men Strap dial Orange Watches,,4346
+10494,Women,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Flying Machine Women Blue Polo Tshirts,,1456
+10209,Women,Accessories,Bags,Handbags,Grey,Winter,2015,Casual,Murcia Women Kkhh Grey Handbags,,1343
+10807,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Wrangler Men Stampede Printed Stripe Black Shirts,,1031
+10699,Women,Accessories,Watches,Watches,Orange,Winter,2016,Casual,Esprit Women Houston Yellow Ice Orange Watches,,3856
+10032,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Sports,Nike Men AS FCB Core T Black T-shirts,,1067
+10200,Women,Accessories,Bags,Handbags,Beige,Winter,2015,Casual,Murcia Women Emma Beige Handbags,,1648
+10664,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Doodle Boy Rockstar-sing it Yellow Tshirts,,838
+10456,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Flying Machine Men Grey Polo Tshirts,,1255
+10690,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Doodle Boy Mummy daddy me Yellow Tshirts,,899
+10469,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Flying Machine Men Yellow Polo Tshirts,,1101
+10831,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Wrangler Men American Music Folk Navy Blue T-Shirts,,1180
+10451,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Flying Machine Men Blue Polo Tshirts,,880
+10207,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Hths Brown Handbags,,2654
+10809,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Wrangler Men Mark Rodeo Riveted Black Shirts,,813
+10035,Men,Footwear,Shoes,Sports Shoes,Brown,Fall,2011,Sports,Reebok Men Runtone Action Brown Sports Shoes,,1579
+10836,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men Urban Folk White T-Shirts,,1311
+10238,Men,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Men Axis Day Steel Watches,,4134
+10298,Women,Footwear,Shoes,Heels,White,Spring,2012,Casual,Clarks Women Soma Silk Leather White Heels,,2097
+10862,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Wrangler Men Dirt Riders Yellow T-Shirts,,1122
+10608,Men,Accessories,Watches,Watches,White,Winter,2016,Casual,Puma Men Forcer 3HD White Dial Watch,,3439
+10095,Men,Footwear,Shoes,Sports Shoes,Blue,Fall,2011,Sports,Reebok Men Reeflex Run Blue Sports Shoes,,2918
+10637,Men,Footwear,Shoes,Formal Shoes,Black,Winter,2014,Formal,Carlton London Men Formal Black Formal Shoes,,2906
+10405,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,United Colors of Benetton Women Top Black Top,,852
+10061,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Puma Men graphic story tee White Tshirts,,917
+10253,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women Claudia Green Handbags,,2005
+10059,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Black Polo Tshirts,,971
+10865,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Wrangler Men Motor Rider Yellow T-Shirts,,1402
+10254,Women,Accessories,Bags,Handbags,Grey,Winter,2015,Casual,Murcia Women Hddcs Grey Handbags,,1122
+10066,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Puma midrange tee Black Tshirts,,1004
+10402,Women,Apparel,Topwear,Tops,Pink,Fall,2011,Casual,Jealous 21 Women Una Pink Tops,,988
+10630,Men,Footwear,Shoes,Casual Shoes,Navy Blue,Winter,2015,Casual,Carlton London Men Casual Navy Blue Casual Shoes,,1657
+10092,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011,Sports,Reebok Men Racehound Silver Sports Shoes,,2626
+10853,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men Blue Polo Tshirts,,1130
+10639,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,Nike Men Nike Capri II Black Casual Shoes,,2762
+10434,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Flying Machine Men Ydc Blue Shirts,,1104
+10606,Women,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Women Temptation 93 Black Watches,,3775
+10262,Men,Apparel,Bottomwear,Trousers,Black,Fall,2011,Formal,John Miller Men Black Trousers,,1358
+10050,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Usain Bolt Black Tshirts,,1072
+10296,Men,Footwear,Shoes,Casual Shoes,Navy Blue,Summer,2016,Casual,Clarks Men Navy Blue Leather Casual Shoes,,2394
+10068,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Puma Men lifestyle graphitti White Tshirts,,1117
+10854,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,Wrangler Men Green Polo T-shirt,,914
+10057,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Puma Men Tshirt Trning White Polo Tshirts,,1386
+10265,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2012,Formal,Clarks Men Goto Eat Tobacco Leather Brown Formal Shoes,,1814
+10601,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Sports,Nike Men Football Soccer Blue Jerseys,,1242
+10433,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Flying Machine Men Ydc Black Shirts,,1465
+10662,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Doodle Boy Travel Red Tshirts,,1173
+10450,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Flying Machine Men Blue Polo Tshirts,,1241
+10034,Women,Apparel,Topwear,Tshirts,Black,Fall,2011,Sports,Nike Women As Element Ja Black T-Shirt,,1472
+10239,Men,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Men Grand Victory White Dial Steel Watches,,4391
+10837,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Wrangler Men Urban Folk Pink T-Shirts,,999
+10691,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,Doodle Boy Little Boy Green Tshirts,,1246
+10033,Men,Apparel,Bottomwear,Shorts,Navy Blue,Fall,2011,Sports,Nike Men As Ad Breakli Navy Blue Shorts,,1867
+10457,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Flying Machine Men Pink Polo Tshirts,,1149
+10665,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Doodle Boy Extream Racer Black Tshirts,,1373
+10468,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Flying Machine Men Blue Polo Tshirts,,1388
+10830,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men White Polo Tshirts,,1199
+10495,Women,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Flying Machine Women HS Blue Shirt,,1441
+10461,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Men White Polo Tshirts,,1468
+10237,Men,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Men Croso Black Steel Watch,,3671
+10005,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Sports,Nike Men As Ss Trainin Blue T-Shirts,,873
+10839,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Wrangler Men N0. 3 Applique Polo Navy Blue T-Shirts,,999
+10698,Women,Accessories,Watches,Watches,Red,Winter,2016,Casual,Esprit Women Houston Red Ice Red Watch,,2820
+10806,Men,Apparel,Topwear,Shirts,Green,Fall,2011,Casual,Wrangler Men Stampede Printed Stripe Green Shirts,,851
+10208,Women,Accessories,Bags,Handbags,Blue,Winter,2015,Casual,Murcia Women Hths Blue Handbags,,2531
+10002,Women,Apparel,Bottomwear,Skirts,Blue,Summer,2011,Casual,Palm Tree Kids Sp Jema Skt Blue Skirts,,1257
+10230,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Claudia Brown Handbags,,1484
+10654,Women,Apparel,Bottomwear,Skirts,Blue,Fall,2011,Casual,Doodle Girl Denim skirt with belt Blue Skirts,,1738
+10466,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Flying Machine Men Grey Polo Tshirts,,856
+10492,Women,Apparel,Topwear,Shirts,Orange,Fall,2011,Casual,Flying Machine Women HS Orange Shirt,,1435
+10459,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Flying Machine Men Fuschia Pink Tshirts,,1489
+10801,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Wrangler Men August Stripe Look Checks Blue Shirts,,1098
+10855,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men White Polo Tshirts,,1094
+10069,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Large logo tee Black Tshirts,,1069
+10264,Men,Footwear,Shoes,Formal Shoes,Black,Summer,2013,Formal,Clarks Men Goya Band Leather Black Formal Shoes,,2074
+10056,Men,Apparel,Bottomwear,Tracksuits,Black,Fall,2011,Sports,ADIDAS Men Cfc Pes Black Tracksuits,,1800
+10432,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Flying Machine Men Ydc Blue Shirts,,1007
+10290,Women,Footwear,Shoes,Heels,Brown,Fall,2012,Casual,Clarks Women Shavi Knot Leather Brown Heels,,2304
+10852,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men Blue Striped T-shirt,,1134
+10638,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011,Formal,Carlton London Men Formal Brown Formal Shoes,,2793
+10297,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2012,Smart Casual,Clarks Men Black Leather Loafers,,2325
+10607,Women,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Women Temptation Black Watch,,3810
+10435,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,Flying Machine Men HS Red Shirts,,820
+10051,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011,Casual,Puma Men Motorsport Navy Blue Shirts,,1136
+10263,Men,Footwear,Shoes,Formal Shoes,Black,Summer,2013,Formal,Clarks Men Energise Me Leather Black Formal Shoes,,2376
+10864,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men True Riders White T-Shirts,,1437
+10058,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Large logo tee Black Tshirts,,1337
+10093,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Men Racehound White Sports Shoes,,2419
+10067,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011,Casual,Puma Men punk logo tee Yellow Tshirts,,1016
+10255,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Locomotive Men Stripes Blue Shirts,,842
+10631,Men,Footwear,Shoes,Casual Shoes,Black,Spring,2013,Casual,Carlton London Men CL semi-cas Black Casual Shoes,,1943
+10403,Women,Apparel,Topwear,Tops,Purple,Fall,2011,Casual,Jealous 21 Women Uri Purple Tops,,1264
+10863,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men True Riders Blue T-Shirts,,1424
+10609,Women,Accessories,Watches,Watches,White,Winter,2016,Casual,Puma Women White Dial Chronograph Watch,,3348
+10299,Women,Footwear,Shoes,Heels,Black,Fall,2013,Casual,Clarks Women Black Leather Wedges,,2613
+10404,Women,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Jealous 21 Women Ummi Black Shirt,,1083
+10636,Men,Footwear,Shoes,Casual Shoes,Green,Winter,2012,Casual,Carlton London Men Semi oxfords Green Casual Shoes,,1526
+10252,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women SLB Bag Brown Handbags,,1072
+10060,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Puma Men motor sport tee White Tshirts,,1461
+10582,Men,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Men Velocity Chrono Black Steel Watches,,2427
+10320,Women,Accessories,Bags,Handbags,White,Winter,2015,Casual,Murcia Women Mary White Handbags,,1151
+10112,Women,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Women Premier Zigfly White Sports Shoes,,1659
+10576,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Lifestyle Graphitti Black T-shirt,,831
+10744,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Winter,2012,Casual,Disney Unisex Kids Pluto Navy Blue Flip Flops,,379
+10743,Unisex,Footwear,Flip Flops,Flip Flops,Red,Winter,2012,Casual,Disney Unisex Kids Only Mickey Red Flip Flops,,309
+10571,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Puma Men Rugby Navy Blue Polo Tshirts,,1147
+10115,Unisex,Footwear,Sandal,Sandals,Grey,Fall,2011,Casual,Reebok Unisex Adventure Sports Grey Sandals,,1039
+10327,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Men Slick Gents 3HD Black Watches,,4828
+10585,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Carrera Men Rubber strap dial Black Watches,,4888
+10318,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Grace Two Tone Steel Watch,,2102
+10788,Men,Apparel,Topwear,Shirts,White,Fall,2011,Casual,Wrangler Men Malbork White Shirt,,1203
+10775,Unisex,Accessories,Bags,Backpacks,Olive,Winter,2015,Casual,Wildcraft Unisex Olive Green Backpack,,1421
+10578,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Puma Men Large Logo Ringer Blue Tshirts,,1437
+10786,Unisex,Accessories,Headwear,Caps,Black,Fall,2011,Sports,Nike Unisex Runng Black Caps,,994
+10772,Boys,Footwear,Shoes,Casual Shoes,Navy Blue,Winter,2012,Casual,Disney Kids Navy Blue Casual Shoes,,1628
+10316,Men,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Men Pure Vitality Brown Steel Watches,,3801
+10329,Women,Accessories,Watches,Watches,White,Winter,2016,Casual,Puma Women Pure Pliancy Gold White Watches,,3676
+10389,Women,Accessories,Watches,Watches,White,Winter,2016,Casual,Puma Women Finesse 232 White Watches,,2171
+10987,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Inkfruit Men Boyz Navy Blue Tshirts,,977
+10719,Women,Apparel,Bottomwear,Capris,Blue,Fall,2011,Casual,Nike Women Training Blue Capris,,1229
+10184,Men,Apparel,Topwear,Shirts,White,Fall,2011,Casual,Indigo Nation Men  White Stripe Shirt,,954
+10726,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Brown Brown Handbags,,1656
+10514,Women,Apparel,Topwear,Tops,Pink,Fall,2011,Casual,Flying Machine Women RN SL Pink Tshirts,,955
+10170,Men,Footwear,Shoes,Casual Shoes,Blue,Fall,2011,Casual,United Colors of Benetton Men Highlander Grey Blue Casual Shoes,,1993
+10342,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,United Colors of Benetton Women Printed Tunic Black Tops,,1160
+10148,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Rockport Men Sc Slip On Brown Casual Shoes,,1901
+10345,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,United Colors of Benetton Men Graphic Printed Black Tshirts,,1191
+10177,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,United Colors Of Benetton Men Cboar Brown Casual Shoes,,2573
+10513,Women,Apparel,Topwear,Tunics,White,Fall,2011,Casual,Flying Machine Women RN HS Tunic Top,,957
+10721,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Sports,Nike Men Runng Mens tshirt White Tshirts,,894
+10183,Women,Footwear,Shoes,Casual Shoes,White,Fall,2011,Casual,Puma Women Future Cat Ballistic Jr White Casual Shoes,,2549
+10728,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Dusvatar Coffee Brown Handbags,,2692
+10717,Women,Apparel,Topwear,Tops,Purple,Fall,2011,Sports,Nike Women Trainng sports bra Purple Tops,,1040
+10373,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,United Colors of Benetton Men Solid Black Tshirts,,1391
+10141,Women,Accessories,Watches,Watches,Gold,Winter,2016,Casual,Esprit Women Houston White Gold Links Gold Watches,,2715
+10387,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Men Indication  178 Black Watches,,3236
+10989,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,Inkfruit Women Mementos Purple Tshirts,,918
+10179,Men,Footwear,Flip Flops,Flip Flops,Blue,Fall,2011,Casual,United Colors of Benetton Men Speeder Blue Flip Flops,,596
+10380,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,United Colors of Benetton Men Solid Black Shirts,,1446
+10146,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011,Formal,Rockport Men Drsp Moc Front Black Formal Shoes,,2852
+10374,Women,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,United Colors of Benetton Women Solid Green T-shirt,,1452
+10710,Women,Apparel,Topwear,Tshirts,Orange,Fall,2011,Casual,Nike Women Trainng short sleeve tshirt Orange Tshirts,,1167
+10773,Women,Accessories,Bags,Handbags,Red,Winter,2016,Casual,Fastrack Red Printed Tote Bag,,2114
+10125,Women,Footwear,Shoes,Sports Shoes,White,Summer,2012,Sports,Reebok Women Premier Zigfly White Sports Shoes,,2028
+10317,Women,Accessories,Watches,Watches,Silver,Winter,2016,Casual,Esprit Women Purple Silicon Silver Watches,,4998
+10787,Men,Apparel,Topwear,Shirts,Green,Fall,2011,Casual,Wrangler Men Galway Placket Label Check Shirt,,1232
+10328,Men,Accessories,Watches,Watches,Black,Winter,2016,Sports,Puma Men Spin Gents Black Watches,,4228
+10122,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Men Run Sheer White Sports Shoes,,2753
+10774,Unisex,Accessories,Bags,Backpacks,Olive,Winter,2015,Casual,Wildcraft Unisex Olive Green Backpack,,2506
+10579,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Black Polo Tshirts,,946
+10584,Men,Accessories,Watches,Watches,Yellow,Winter,2016,Casual,Carrera Men Sporty Rubber Strap Yellow Watch,,2200
+10570,Men,Apparel,Topwear,Tshirts,Orange,Fall,2011,Casual,Puma Men Rugby Orange Tshirts,,1261
+10742,Women,Footwear,Shoes,Casual Shoes,Orange,Winter,2012,Casual,Disney Kids Girl Pooh Face Orange Casual Shoes,,1692
+10326,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Men Strom Agitation Gents Black Watches,,4708
+10114,Unisex,Footwear,Sandal,Sports Sandals,Black,Fall,2013,Casual,Reebok Unisex Black Sports Sandals,,886
+10789,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,Wrangler Men Manitoba Piping Red Shirts,,824
+10319,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Cool Chic Brown Steel Watch,,4244
+10113,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Men Run Sheer White Sports Shoes,,1919
+10321,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women TMK Black Handbags,,1278
+10577,Women,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Women's Ess Black Polo Tshirts,,991
+10583,Men,Accessories,Watches,Watches,Gold,Winter,2016,Formal,Esprit Men Nova Genesis Brown Gold Watches,,4980
+10178,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,United Colors of Benetton Men Bournie Brown Casual Shoes,,2622
+10147,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011,Formal,Rockport Men Ed Plaintoe Black Formal Shoes,,2822
+10711,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Nike Women White Casual T-shirt,,923
+10381,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Formal,United Colors of Benetton Men Solid Blue Shirts,,1090
+10729,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Lorra Black Black Handbags,,1391
+10988,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Inkfruit Women Flying Advantures Pink Tshirts,,1268
+10386,Women,Accessories,Watches,Watches,White,Winter,2016,Casual,Puma Women Vitality Gold Stones  169 White Watches,,4434
+10716,Women,Apparel,Innerwear,Bra,White,Fall,2011,Sports,Nike Women Training Sports Bra,,778
+10140,Women,Accessories,Watches,Watches,Silver,Winter,2016,Casual,Esprit Women Rocks Houston Black Silver Watches,,2003
+10372,Men,Apparel,Topwear,Tshirts,Beige,Fall,2011,Casual,United Colors of Benetton Men Printed Beige Tshirts,,858
+10149,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011,Formal,Rockport Men Ed Plaintoe Brown Formal Shoes,,2616
+10182,Women,Footwear,Shoes,Casual Shoes,White,Fall,2011,Casual,Puma Women Style Cat White Casual Shoes,,2121
+10176,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,United Colors of Benetton Men Cloud 9 Black Casual Shoes,,1871
+10344,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,United Colors of Benetton Men Solid Purple Tshirts,,1412
+10720,Men,Apparel,Bottomwear,Shorts,White,Summer,2011,Sports,Nike Men Ftbll/Socc shorts White Shorts,,1256
+10512,Women,Apparel,Topwear,Tops,Blue,Fall,2011,Casual,Flying Machine Women RN HS Blue Tshirts,,1210
+10718,Women,Apparel,Topwear,Tops,Orange,Fall,2011,Sports,Nike Women Trainng sports bra Orange Tops,,999
+10388,Women,Accessories,Watches,Watches,Pink,Winter,2016,Casual,Puma Women Pliancy 199 Pink Watches,,3102
+10727,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Dusvatar Brown Brown Handbags,,2976
+10343,Women,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,United Colors of Benetton Women Solid Blue Tshirts,,880
+10171,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011,Formal,United Colors of Benetton Men vertigo Brown Shoes,,2764
+10185,Men,Apparel,Topwear,Shirts,White,Fall,2011,Casual,Indigo Nation Men Price catch White Shirts,,896
+10153,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011,Formal,Rockport Men Drsp SLip On Brown Formal Shoes,,1516
+10361,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,United Colors of Benetton Men Graphic Printed Purple Tshirts,,1320
+10705,Women,Accessories,Watches,Watches,Silver,Winter,2016,Casual,Esprit Women Twist Black Houston Silver Watches,,3798
+10395,Men,Accessories,Watches,Watches,Red,Winter,2016,Sports,Puma Men Cardiac II Red Watches,,2778
+10508,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,Flying Machine Women RN SL Black Top,,1186
+10198,Women,Accessories,Bags,Handbags,Beige,Winter,2015,Casual,Murcia Women Hddcs Beige Handbags,,1465
+10392,Women,Accessories,Watches,Watches,White,Winter,2016,Casual,Puma Women Pure Pliancy 258 White Watches,,3627
+10702,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Lissomy Glam Silver Black Steel Watches,,3197
+10366,Women,Apparel,Bottomwear,Skirts,Black,Fall,2011,Casual,United Colors of Benetton Women Solid Black Skirt,,1439
+10154,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Rockport Men Bal Brown Casual Shoes,,2544
+10359,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,United Colors of Benetton Men Printed White Tshirts,,1139
+10196,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women Hddcs Green Handbags,,2733
+10350,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,United Colors of Benetton Women Applique Work Purple T-shirt,,1374
+10162,Men,Footwear,Shoes,Casual Shoes,White,Fall,2011,Casual,Puma Men 917 Lo Paint Splatter White Casual Shoes,,2558
+10506,Women,Apparel,Topwear,Tops,Red,Fall,2011,Casual,Flying Machine Women Fuschia Red Tshirts,,1005
+10734,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women Mcc Green Green Handbags,,1973
+10995,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Inkfruit Men Respest Me Black Tshirts,,1141
+10733,Women,Accessories,Bags,Handbags,Purple,Winter,2015,Casual,Murcia Women Mcc Purple Purple Handbags,,2391
+10501,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Women RN HS White T-shirt,,1120
+10357,Men,Apparel,Topwear,Tshirts,Maroon,Fall,2011,Casual,United Colors of Benetton Men Maroon Polo Tshirt,,1333
+10992,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,Inkfruit Men Dust Rider Purple Tshirts,,1105
+10758,Girls,Footwear,Shoes,Casual Shoes,Blue,Winter,2012,Casual,Disney Kids Girls Princess Heart Blue Casual Shoes,,2764
+10767,Unisex,Footwear,Flip Flops,Flip Flops,White,Winter,2012,Casual,Disney Unisex Kids Basic White Flip Flops,,323
+10303,Men,Footwear,Shoes,Sandals,Brown,Summer,2016,Casual,Clarks Men Brown Leather Sandals,,1557
+10131,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Romain Brown Steel Watches,,3052
+10793,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,Wrangler Men Authentic Rope Embro Red Shirts,,803
+10599,Unisex,Accessories,Headwear,Caps,White,Fall,2011,Sports,Nike Unisex Tennis White Caps,,523
+10109,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Fastrack Women Denim Analogue Steel Watch,,2648
+10794,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011,Casual,Wrangler Men Warnick Square Block Navy Blue Shirts,,1272
+10136,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Pure Vitality Black Steel Watches,,4486
+10304,Men,Footwear,Sandal,Sandals,Black,Fall,2011,Casual,Clarks Men Vieri Deck Leather Black Sandals,,1228
+10760,Unisex,Footwear,Flip Flops,Flip Flops,Red,Winter,2012,Casual,Disney Unisex Kids Basic Red Flip Flops,,640
+10769,Unisex,Footwear,Flip Flops,Flip Flops,White,Winter,2012,Casual,Disney Unisex Kids Basic White Flip Flops,,713
+10756,Women,Footwear,Shoes,Casual Shoes,Red,Winter,2012,Casual,Disney Kids Welding Red Casual Shoes,,2903
+10564,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Puma Men Large Logo Ringer White Tshirts,,1371
+10332,Men,Accessories,Belts,Belts,Brown,Fall,2011,Casual,Indigo Nation Men cataclasite Brown Belts,,984
+10138,Women,Accessories,Watches,Watches,Silver,Winter,2016,Casual,Esprit Women Spark Pink Silver Watches,,2549
+10335,Women,Apparel,Topwear,Tops,Pink,Fall,2011,Casual,United Colors of Benetton Women Striped Magenta Top,,901
+10107,Men,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Fastrack Men Analogue Leather Steel Watches,,2457
+10563,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Large Logo Ringer Black Tshirts,,1024
+10751,Men,Apparel,Bottomwear,Track Pants,Grey,Fall,2011,Sports,Nike Men Breakline Grey Track Pants,,1247
+10597,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011,Casual,Flying Machine Men Skinny Jack Blue Jeans,,1193
+10190,Men,Apparel,Topwear,Shirts,White,Fall,2011,Casual,Indigo Nation Men Club Poplin White Shirts,,816
+10500,Women,Apparel,Dress,Dresses,Navy Blue,Fall,2011,Casual,Flying Machine Women OS Blue Tops,,2449
+10732,Women,Accessories,Bags,Handbags,Red,Winter,2015,Casual,Murcia Women Lorra Red Red Handbags,,2557
+10356,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,United Colors of Benetton Men Solid Blue Shirts,,978
+10164,Men,Accessories,Watches,Watches,Green,Winter,2016,Casual,Carrera Men Green strap witrh green dial Green Watches,,4064
+10993,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Inkfruit Men Tea Kwon Do Grey Tshirts,,971
+10369,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,United Colors of Benetton Men Checks Blue Shirts,,1008
+10351,Women,Apparel,Bottomwear,Skirts,Grey,Fall,2011,Casual,United Colors of Benetton Women Check Skirt Grey Skirts,,1469
+10735,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Mcc Black Black Handbags,,2343
+10507,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011,Casual,Flying Machine Women Pink Polo Tshirts,,918
+10197,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Hddcs Brown Handbags,,2170
+10994,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Inkfruit Men Near Future Black Tshirts,,1161
+10155,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Rockport Men Tr Bal Brown Casual Shoes,,2942
+10367,Men,Apparel,Topwear,Shirts,Purple,Fall,2011,Casual,United Colors of Benetton Men Checks Purple Shirts,,1459
+10393,Women,Accessories,Watches,Watches,Black,Winter,2016,Casual,Puma Women Spark 351 Black Watches,,2234
+10358,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,United Colors of Benetton Men Solid Polo Blue Tshirts,,1089
+10394,Men,Accessories,Watches,Watches,Red,Winter,2016,Sports,Puma Men Cardiac Red Watches,,4656
+10360,Women,Apparel,Dress,Dresses,Black,Fall,2011,Casual,United Colors of Benetton Women Black Dress,,2456
+10152,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,Rockport Men TR Bal Black Casual Shoes,,2274
+10704,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Organic Pretty Black Houston Steel Watches,,4141
+10199,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Emma Black Handbags,,1455
+10509,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Flying Machine Women RN HS White Tshirts,,1447
+10139,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Cool Chic Night Steel Watch,,4863
+10596,Women,Accessories,Watches,Watches,Green,Winter,2016,Casual,Esprit Women Houston Funky Green Green Watch,,2078
+10106,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Fastrack Women Essentials Steel Watches,,4948
+10334,Men,Accessories,Belts,Belts,Black,Fall,2011,Casual,Indigo Nation Men diorite Black Belts,,1088
+10750,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Sports,Nike Men Remix Crew Blue Tshirts,,915
+10768,Unisex,Footwear,Flip Flops,Flip Flops,Pink,Winter,2012,Casual,Disney Unisex Kids Basic Pink Flip Flops,,557
+10565,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Heritage Black Polo Tshirts,,1499
+10757,Unisex,Footwear,Flip Flops,Flip Flops,Pink,Winter,2012,Casual,Disney Unisex Kids Princess Heart Pink Flip Flops,,784
+10333,Men,Accessories,Belts,Belts,Brown,Fall,2011,Casual,Indigo Nation Men chert Brown Belts,,997
+10101,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011,Sports,Reebok Men Island Explorer Black Sports Shoes,,2877
+10108,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Fastrack Women Denim Analogue Steel Watches,,2410
+10598,Women,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Flying Machine Women HS Blue Denim Shirt,,811
+10305,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Casual,Clarks Men Rocco Fuse Brown Casual Shoes,,2404
+10137,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Lissomy Brown Steel Watches,,4887
+10761,Unisex,Footwear,Flip Flops,Flip Flops,Red,Winter,2012,Casual,Disney Unisex Kids Basic Red Flip Flops,,307
+10795,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011,Casual,Wrangler Men Warnick Square Block Navy Blue Shirts,,1020
+10759,Unisex,Footwear,Flip Flops,Flip Flops,Pink,Winter,2012,Casual,Disney Unisex Kids Mini Mouse Pink Flip Flops,,719
+10792,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,Wrangler Men Authentic Rope Embro Red Shirts,,1490
+10766,Unisex,Footwear,Flip Flops,Flip Flops,Yellow,Winter,2012,Casual,Disney Unisex Kids Basic Yellow Flip Flops,,560
+10130,Women,Accessories,Watches,Watches,Steel,Winter,2016,Casual,Esprit Women Pure E-Ffect Black Steel Watches,,2243
+10302,Men,Footwear,Shoes,Formal Shoes,Brown,Spring,2012,Formal,Clarks Men Leather Brown Formal Shoes,,2136
+10042,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011,Sports,Nike Women Pink Polo Tshirts,,1063
+10270,Women,Footwear,Shoes,Flats,Silver,Fall,2012,Casual,Clarks Women Shona Fringe Leather Silver Flats,,2339
+10426,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,United Colors of Benetton Men Polo Black Tshirts,,1248
+10284,Women,Footwear,Shoes,Flats,White,Fall,2012,Casual,Clarks Women Leather White Flats,,2914
+10089,Women,Footwear,Shoes,Sports Shoes,Silver,Fall,2011,Sports,Reebok Women Raceon Silver Sports Shoes,,2370
+10283,Men,Footwear,Sandal,Sandals,Black,Fall,2012,Casual,Clarks Men Unstructured Leather Black Sandals,,877
+10421,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,United Colors of Benetton Men Solid Blue Shirts,,996
+10613,Women,Footwear,Shoes,Casual Shoes,White,Spring,2013,Casual,Carlton London Women Casual White Casual Shoes,,1696
+10277,Men,Footwear,Shoes,Formal Shoes,Black,Spring,2012,Smart Casual,Clarks Men Black Leather Semiformal Shoes,,1565
+10879,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Grey T-shirt,,841
+10045,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Puma Men Heroes Party Graphic Blue Tshirts,,817
+10846,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men Falcon Print Blue T-Shirts,,1223
+10248,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Asjke Coffee Brown Handbags,,2579
+10241,Men,Accessories,Watches,Watches,Black,Winter,2016,Casual,Esprit Men Momentum Black Black Watches,,4774
+10073,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,Puma Women cat line tee Purple Tshirts,,969
+10884,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Grey Glow In Dark T-shirt,,1008
+10428,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,United Colors of Benetton Women Solid Black Tops,,1004
+10870,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men Fly The Wind Blue T-Shirts,,807
+10622,Women,Footwear,Flip Flops,Flip Flops,Green,Fall,2011,Casual,Carlton London Women Casual Green Slippers,,322
+10410,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,United Colors of Benetton Men Solid White Tshirts,,1441
+10848,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men Blue T-shirt,,1181
+10074,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Puma runhard tee Black Tshirts,,1491
+10246,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Zoe Brown Handbags,,1899
+10080,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011,Sports,Reebok Men Run Sheer Black Sports Shoes,,1921
+10279,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2012,Casual,Clarks Men Nature Easy Leather Black Casual Shoes,,2844
+10877,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Wrangler Men Navy Blue Polo Tshirts,,1448
+10883,Men,Apparel,Topwear,Tshirts,Beige,Fall,2011,Casual,Wrangler Men American Photo Print Beige T-shirt,,1347
+10823,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Grey Polo Tshirts,,1369
+10649,Boys,Apparel,Topwear,Shirts,White,Fall,2011,Casual,Doodle Boys Grand Prix White Shirt,,1454
+10444,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Flying Machine Men Ydc Aqua Green Shirts,,1356
+10676,Women,Apparel,Topwear,Tops,Red,Fall,2011,Casual,Doodle Girl Bubbles Red Tops,,1425
+10020,Men,Apparel,Bottomwear,Shorts,Black,Summer,2012,Sports,Nike Men Black & White Reversible Shorts,,1805
+10682,Men,Apparel,Topwear,Tshirts,Tan,Fall,2011,Casual,United Colors of Benetton Men Printed Tan T-shirt,,803
+10488,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011,Casual,Flying Machine Blue Jeans,,1416
+10018,Men,Apparel,Bottomwear,Shorts,Black,Fall,2012,Sports,Nike Men Black Three Quarter Track Pants,,1490
+10824,Men,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Wrangler Men White Polo Tshirts,,1091
+10685,Women,Apparel,Topwear,Tops,White,Fall,2011,Casual,Doodle Girl Little Princess White Tops,,1112
+10027,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Sports,Nike Women's White Tshirt,,1233
+10215,Women,Accessories,Bags,Handbags,Purple,Winter,2015,Casual,Murcia Women Hths Purple Handbags,,2211
+10671,Boys,Apparel,Bottomwear,Shorts,Green,Fall,2011,Casual,Doodle Boy Army  Green Shorts,,1979
+10443,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Flying Machine Men Blue Polo Tshirts,,999
+10812,Men,Apparel,Topwear,Shirts,Brown,Fall,2011,Casual,Wrangler Men Wales Slim Hb Brown Shirts,,1228
+10678,Women,Apparel,Topwear,Tops,White,Fall,2011,Casual,Doodle Girl Super stylish White Tops,,1151
+10481,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Flying Machine Men Ydc Blue Shirts,,1296
+10647,Women,Apparel,Topwear,Tops,Pink,Fall,2011,Casual,Doodle Girl Little Princess Pink Tops,,1127
+10475,Men,Apparel,Topwear,Shirts,Brown,Fall,2011,Casual,Flying Machine Men FS Solid Brown Shirts,,1075
+10011,Men,Apparel,Bottomwear,Track Pants,Grey Melange,Summer,2012,Sports,Nike Men Grey Melange Track Pants,,1290
+10223,Women,Accessories,Bags,Handbags,Green,Winter,2015,Casual,Murcia Women Zoe Green Handbags,,1569
+10029,Women,Apparel,Topwear,Sweatshirts,Navy Blue,Fall,2011,Sports,Nike Women As Script Mas Navy Blue Sweatshirts,,1360
+10815,Men,Apparel,Topwear,Shirts,Blue,Fall,2011,Casual,Wrangler Men Rain Light Denim Blue Shirts,,1057
+10224,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Asjke Brown Brown Handbags,,1013
+10016,Women,Apparel,Dress,Dresses,Pink,Summer,2011,Casual,Palm Tree Girl's Cr Blossom Drs Pink Dresses,,1353
+10472,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,Flying Machine Men HS Purple Tshirts,,980
+10640,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011,Sports,Nike Men Nike Elite Black Casual Shoes,,1661
+10486,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Flying Machine Men Black Polo Tshirts,,1255
+10081,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011,Sports,Reebok Men Zigdynamic White Sports Shoes,,1610
+10411,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011,Casual,United Colors of Benetton Women Printed Purple T-shirt,,1221
+10623,Women,Footwear,Flip Flops,Flip Flops,Gold,Fall,2011,Casual,Carlton London Women Glitterati Gold Slippers,,757
+10247,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Zoe Brown Handbags,,1885
+10075,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Puma Men ducati heritage logo tee Red Tshirts,,1479
+10849,Men,Apparel,Topwear,Tshirts,Maroon,Fall,2011,Casual,Wrangler Men Famous Filafil Maroon T-Shirts,,1432
+10882,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Wrangler Men Blue American Photo Print T-shirt,,1355
+10876,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Motor City Grey T-Shirts,,1165
+10278,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011,Casual,Clarks Men Nature Easy Mahogany Leather Brown Casual Shoes,,2236
+10072,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Casual,Puma Women poster tee White Tshirts,,808
+10240,Men,Accessories,Watches,Watches,Copper,Winter,2016,Casual,Esprit Men Gran Orbit Rosegold Copper Watches,,4063
+10624,Women,Footwear,Shoes,Heels,Copper,Fall,2011,Casual,Carlton London Women Glitterati Copper Platforms,,1869
+10429,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,United Colors of Benetton Women Solid Black Top,,1371
+10871,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011,Casual,Wrangler Men Dirtcross Grey T-Shirts,,891
+10885,Men,Apparel,Topwear,Tshirts,Teal,Fall,2011,Casual,Wrangler Men Glow in Dark Teal T-shirt,,1133
+10612,Men,Apparel,Topwear,Shirts,Maroon,Fall,2011,Casual,Flying Machine Men Ydc Maroon Shirts,,1495
+10044,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men Ferrari Logo Black Tshirts,,852
+10878,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Wrangler Men Red Polo Tshirts,,889
+10276,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011,Formal,Clarks Men Leather Black Formal Shoes,,2251
+10282,Women,Footwear,Shoes,Flats,Black,Winter,2013,Casual,Clarks Women Spice Pat Black Flats,,1920
+10249,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Hahk Brown Handbags,,2757
+10285,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2012,Formal,Clarks Men Goya Rates Leather Black Formal Shoes,,2513
+10271,Women,Footwear,Shoes,Heels,Red,Fall,2012,Casual,Clarks Women Sona Silk Leather Red Heels,,2539
+10043,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Puma Men ferrari Black Polo Tshirts,,907
+10427,Men,Apparel,Topwear,Shirts,Red,Fall,2011,Casual,United Colors of Benetton Men Checks Red Shirts,,1172
+10615,Women,Footwear,Shoes,Casual Shoes,Cream,Fall,2011,Casual,Carlton London Women balle Grey Casual Shoes,,2159
+10088,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011,Sports,Reebok Men Racehound Silver Sports Shoes,,2968
+10418,Women,Apparel,Topwear,Tops,Black,Fall,2011,Casual,United Colors of Benetton Women Solid Black Tops,,938
+10840,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,Wrangler Men Green Polo T-shirt,,1097
+10814,Men,Apparel,Topwear,Shirts,Purple,Fall,2011,Casual,Wrangler Men Easter Bright Amslar Purple Shirt,,905
+10028,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Sports,Nike Women As Club Jerse White T-Shirts,,865
+10487,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011,Casual,Flying Machine Men Midrise Blue Jeans,,1229
+10017,Women,Apparel,Topwear,Jackets,Blue,Fall,2011,Sports,Nike Women As The Windru Blue Jackets,,1007
+10225,Women,Accessories,Bags,Handbags,Beige,Winter,2015,Casual,Murcia Women Hahk Beige Handbags,,1072
+10641,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Doodle Boy D Print Red T-shirt,,1182
+10473,Men,Apparel,Topwear,Shirts,Grey,Fall,2011,Casual,Flying Machine Men FS Solid Grey Shirts,,843
+10813,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Wrangler Men Dirt Rider Check Black Shirts,,1101
+10474,Men,Apparel,Topwear,Shirts,Black,Fall,2011,Casual,Flying Machine Men Ydc Black Shirts,,1359
+10646,Men,Apparel,Topwear,Tshirts,Red,Fall,2011,Casual,Doodle Boy Athlethic Red Tshirts,,1327
+10222,Women,Accessories,Bags,Handbags,Grey,Winter,2015,Casual,Murcia Women Zoe Grey Handbags,,2566
+10010,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Sports,Nike Men As Showdown F Black T-Shirts,,1273
+10480,Men,Apparel,Topwear,Shirts,Yellow,Fall,2011,Casual,Flying Machine Men SS Yellow Shirts,,916
+10825,Men,Apparel,Topwear,Tshirts,Green,Fall,2011,Casual,Wrangler Men Green Polo T-shirt,,927
+10019,Women,Apparel,Topwear,Tshirts,White,Fall,2011,Sports,Nike Women As Miler Ss White T-Shirts,,1445
+10489,Men,Apparel,Bottomwear,Jeans,Blue,Winter,2016,Casual,Flying Machine Men Midrise Blue Jeans,,1481
+10214,Women,Accessories,Bags,Handbags,Brown,Winter,2015,Casual,Murcia Women Rubena Brown Handbags,,2363
+10026,Women,Apparel,Topwear,Tshirts,Black,Fall,2011,Sports,Nike Women As Challenger Black T-Shirts,,1158
+10442,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Flying Machine Men HS True Blue Tshirts,,1050
+10670,Men,Apparel,Topwear,Tshirts,Black,Fall,2011,Casual,Doodle Boy Stop global warming Black Tshirts,,1231
+10684,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Doodle Boy Athlethic Blue Tshirts,,1188
+10822,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011,Casual,Wrangler Men Navy Blue Polo Tshirts,,1308
+10683,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011,Casual,Doodle Boy Athlethic Blue Tshirts,,1383
+10677,Women,Apparel,Topwear,Tops,Pink,Fall,2011,Casual,Doodle Girl Flap doodle angel Pink Tops,,1204
+10445,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011,Casual,Flying Machine Men Midrise Blue Jeans,,1292
+10021,Men,Apparel,Bottomwear,Shorts,White,Spring,2013,Sports,Nike Men As Woven Shor White Shorts,,1356
+10213,Women,Accessories,Bags,Handbags,Black,Winter,2015,Casual,Murcia Women Hahk Black Handbags,,2471
