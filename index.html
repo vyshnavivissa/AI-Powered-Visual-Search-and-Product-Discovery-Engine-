@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
     <title>NOVA | AI Visual Search & Product Discovery Engine</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -13,27 +13,27 @@
         }
 
         body {
-            background: #f8fafc;
+            background: #f5f7fb;
             font-family: 'Inter', sans-serif;
             color: #0f172a;
-            padding: 32px 24px 64px 24px;
+            padding: 28px 20px 60px 20px;
         }
 
         .container {
-            max-width: 1600px;
+            max-width: 1300px;
             margin: 0 auto;
         }
 
         .hero {
             text-align: center;
-            margin-bottom: 40px;
+            margin-bottom: 32px;
         }
 
         .hero h1 {
-            font-size: 2.6rem;
+            font-size: 2.2rem;
             font-weight: 700;
             letter-spacing: -0.02em;
-            background: linear-gradient(135deg, #1e293b, #2d3a4f);
+            background: linear-gradient(135deg, #0f172a, #2d3a4f);
             -webkit-background-clip: text;
             background-clip: text;
             color: transparent;
@@ -41,16 +41,17 @@
 
         .hero p {
             color: #475569;
-            margin-top: 8px;
+            margin-top: 6px;
             font-weight: 400;
+            font-size: 0.9rem;
         }
 
         .status-badge {
             display: inline-block;
-            margin-top: 12px;
-            padding: 6px 14px;
+            margin-top: 10px;
+            padding: 5px 14px;
             border-radius: 40px;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             font-weight: 500;
             background: #f1f5f9;
             color: #475569;
@@ -66,209 +67,263 @@
             color: #991b1b;
         }
 
-        .search-modes {
+        .unified-search-card {
+            background: white;
+            border-radius: 48px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0,0,0,0.02);
+            padding: 28px 28px 32px;
+            margin-bottom: 36px;
+            border: 1px solid #eef2f6;
+            transition: all 0.2s;
+        }
+
+        .search-input-group {
             display: flex;
             flex-wrap: wrap;
-            gap: 24px;
-            margin-bottom: 48px;
-            justify-content: center;
-        }
-
-        .mode-card {
-            background: white;
-            border-radius: 28px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.02), 0 2px 6px rgba(0,0,0,0.05);
-            flex: 1;
-            min-width: 260px;
-            padding: 22px 20px 26px;
-            transition: all 0.2s ease;
-            border: 1px solid #e9edf2;
-        }
-
-        .mode-card:hover {
-            border-color: #cbd5e1;
-            box-shadow: 0 12px 24px -12px rgba(0,0,0,0.1);
-        }
-
-        .mode-title {
-            font-weight: 600;
-            font-size: 1.3rem;
-            margin-bottom: 16px;
-            color: #0f172a;
-        }
-
-        .mode-title span {
-            background: #eef2ff;
-            padding: 4px 10px;
-            border-radius: 40px;
-            font-size: 0.75rem;
-            font-weight: 500;
-            color: #1e40af;
-            margin-left: 8px;
-        }
-
-        .file-input-label, .text-input {
-            width: 100%;
-            margin-top: 8px;
-            margin-bottom: 14px;
-        }
-
-        .file-label {
-            background: #f1f5f9;
-            border: 1px dashed #94a3b8;
-            border-radius: 44px;
-            padding: 10px 16px;
-            text-align: center;
-            font-size: 0.85rem;
-            font-weight: 500;
-            cursor: pointer;
-            display: inline-block;
-            width: 100%;
+            align-items: center;
+            gap: 14px;
+            background: #f8fafc;
+            border-radius: 100px;
+            padding: 6px 6px 6px 22px;
+            border: 1px solid #e2e8f0;
             transition: 0.2s;
         }
 
-        .file-label:hover {
-            background: #e6edf5;
-            border-color: #5b6e8c;
-        }
-
-        input[type="file"] {
-            display: none;
-        }
-
-        .text-input-field {
-            width: 100%;
-            padding: 12px 16px;
-            border-radius: 48px;
-            border: 1px solid #cbd5e1;
-            font-family: 'Inter', monospace;
-            font-size: 0.9rem;
-            outline: none;
-            transition: 0.2s;
-        }
-
-        .text-input-field:focus {
-            border-color: #3b82f6;
+        .search-input-group:focus-within {
+            border-color: #94a3b8;
             box-shadow: 0 0 0 3px rgba(59,130,246,0.1);
         }
 
-        .search-btn {
-            background: #0f172a;
-            color: white;
+        .text-input-simple {
+            flex: 1;
+            background: transparent;
             border: none;
-            border-radius: 44px;
-            padding: 10px 18px;
-            font-weight: 600;
-            font-size: 0.85rem;
-            width: 100%;
-            cursor: pointer;
-            transition: 0.2s;
-            margin-top: 12px;
+            padding: 16px 0;
+            font-size: 1rem;
+            font-family: 'Inter', sans-serif;
+            outline: none;
+            min-width: 180px;
         }
 
-        .search-btn:hover {
+        .text-input-simple::placeholder {
+            color: #94a3b8;
+            font-weight: 400;
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .plus-btn {
+            background: #eef2ff;
+            border: none;
+            width: 46px;
+            height: 46px;
+            border-radius: 60px;
+            font-size: 1.6rem;
+            font-weight: 500;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            transition: 0.2s;
+            color: #1e293b;
+        }
+
+        .plus-btn:hover {
+            background: #e2e8f0;
+            transform: scale(0.96);
+        }
+
+        .search-main-btn {
+            background: #0f172a;
+            border: none;
+            padding: 0 28px;
+            height: 48px;
+            border-radius: 60px;
+            color: white;
+            font-weight: 600;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .search-main-btn:hover {
             background: #1e293b;
             transform: translateY(-1px);
         }
 
-        .camera-btn {
-            background: #334155;
-            color: white;
-            border: none;
-            border-radius: 44px;
-            padding: 10px 18px;
-            font-weight: 600;
-            font-size: 0.85rem;
+        .upload-options-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
             width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            backdrop-filter: blur(4px);
+        }
+        .upload-options-card {
+            background: white;
+            border-radius: 48px;
+            padding: 32px 28px;
+            width: 320px;
+            text-align: center;
+            box-shadow: 0 30px 40px rgba(0,0,0,0.2);
+            animation: fadeUp 0.2s ease;
+        }
+        @keyframes fadeUp {
+            from { opacity: 0; transform: scale(0.96); }
+            to { opacity: 1; transform: scale(1); }
+        }
+        .upload-options-card h3 {
+            font-size: 1.4rem;
+            margin-bottom: 24px;
+            font-weight: 600;
+        }
+        .option-btn {
+            width: 100%;
+            padding: 14px;
+            border-radius: 60px;
+            background: #f1f5f9;
+            border: none;
+            font-weight: 600;
+            margin-bottom: 12px;
             cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            font-size: 1rem;
             transition: 0.2s;
+        }
+        .option-btn:hover {
+            background: #e2e8f0;
+        }
+        .cancel-options {
+            background: none;
+            color: #64748b;
             margin-top: 8px;
         }
 
-        .camera-btn:hover {
-            background: #1e293b;
+        .image-preview-area {
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            background: #fefce8;
+            border-radius: 60px;
+            padding: 8px 16px 8px 20px;
+            border: 1px solid #fde047;
+        }
+        .preview-img {
+            width: 48px;
+            height: 48px;
+            object-fit: cover;
+            border-radius: 30px;
+            background: #f1f5f9;
+            border: 1px solid #e2e8f0;
+        }
+        .remove-file {
+            background: none;
+            border: none;
+            color: #ef4444;
+            font-size: 0.7rem;
+            font-weight: 600;
+            cursor: pointer;
+            margin-left: 8px;
+        }
+        .hidden-file-input {
+            display: none;
+        }
+        .mode-badge {
+            font-size: 0.7rem;
+            background: #f1f5f9;
+            padding: 5px 12px;
+            border-radius: 50px;
+            color: #334155;
         }
 
         .filter-panel {
             background: white;
-            border-radius: 24px;
-            padding: 20px 24px;
+            border-radius: 32px;
+            padding: 16px 24px;
             margin-bottom: 32px;
             border: 1px solid #eef2f6;
             display: flex;
             flex-wrap: wrap;
-            align-items: flex-end;
-            gap: 18px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+            align-items: center;
+            gap: 16px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.02);
         }
-
         .filter-group {
             display: flex;
             flex-direction: column;
-            gap: 6px;
-            min-width: 140px;
+            gap: 4px;
+            min-width: 120px;
         }
-
         .filter-group label {
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             text-transform: uppercase;
             font-weight: 600;
             letter-spacing: 0.5px;
             color: #475569;
         }
-
         .filter-select, .filter-input {
             background: #f8fafc;
             border: 1px solid #e2e8f0;
             border-radius: 40px;
-            padding: 8px 14px;
-            font-size: 0.85rem;
+            padding: 7px 12px;
+            font-size: 0.8rem;
             font-family: 'Inter', monospace;
             outline: none;
         }
-
         .apply-filters-btn {
             background: #ffffff;
             border: 1px solid #cbd5e1;
             border-radius: 40px;
-            padding: 8px 24px;
+            padding: 7px 20px;
             font-weight: 600;
+            font-size: 0.75rem;
             cursor: pointer;
             transition: 0.2s;
-            margin-top: 18px;
+            margin-top: 14px;
         }
-
         .apply-filters-btn:hover {
             background: #f1f5f9;
-            border-color: #94a3b8;
         }
 
         .results-section {
-            margin-top: 32px;
+            margin-top: 28px;
         }
-
         .section-header {
             display: flex;
             justify-content: space-between;
             align-items: baseline;
             flex-wrap: wrap;
-            margin-bottom: 20px;
+            margin-bottom: 18px;
             border-bottom: 2px solid #e2e8f0;
             padding-bottom: 8px;
         }
-
         .section-header h2 {
-            font-size: 1.4rem;
+            font-size: 1.3rem;
             font-weight: 600;
         }
-
         .badge-tag {
             font-size: 0.7rem;
             background: #eef2ff;
             padding: 4px 10px;
             border-radius: 24px;
         }
-
         .horizontal-scroll {
             display: flex;
             overflow-x: auto;
@@ -276,9 +331,8 @@
             padding-bottom: 16px;
             scrollbar-width: thin;
         }
-
         .product-card {
-            flex: 0 0 280px;
+            flex: 0 0 270px;
             background: white;
             border-radius: 24px;
             overflow: hidden;
@@ -288,122 +342,97 @@
             display: flex;
             flex-direction: column;
         }
-
         .product-card:hover {
             transform: translateY(-4px);
             box-shadow: 0 20px 25px -12px rgba(0,0,0,0.1);
         }
-
         .card-img {
-            height: 240px;
+            height: 230px;
             background: #f1f5f9;
             display: flex;
             align-items: center;
             justify-content: center;
             overflow: hidden;
-            border-bottom: 1px solid #eef2f6;
         }
-
         .card-img img {
             width: 100%;
             height: 100%;
             object-fit: cover;
-            transition: 0.2s;
         }
-
         .card-details {
-            padding: 16px 14px 18px;
+            padding: 14px 14px 18px;
         }
-
         .price {
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             font-weight: 700;
             color: #0f172a;
-            margin-bottom: 8px;
-            letter-spacing: -0.3px;
-            display: inline-block;
             border-bottom: 2px solid #facc15;
-            padding-bottom: 2px;
+            display: inline-block;
+            margin-bottom: 6px;
         }
-
         .brand {
             font-weight: 600;
-            font-size: 0.85rem;
+            font-size: 0.75rem;
             color: #334155;
             text-transform: uppercase;
-            margin: 6px 0 4px;
+            margin: 4px 0 2px;
         }
-
         .color-cat {
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             color: #475569;
             display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin: 8px 0 4px;
+            gap: 12px;
+            margin: 6px 0 4px;
         }
-
         .product-name {
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             color: #5b6e8c;
             line-height: 1.3;
-            display: -webkit-box;
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            display: -webkit-box;
         }
-
         .match-tag {
             margin-top: 8px;
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             font-weight: 500;
             background: #f1f5f9;
             display: inline-block;
-            padding: 4px 8px;
+            padding: 3px 8px;
             border-radius: 40px;
         }
-
         .history-panel {
-            margin-top: 48px;
+            margin-top: 44px;
             background: #ffffffd9;
             border-radius: 28px;
-            padding: 20px 24px;
+            padding: 18px 22px;
             border: 1px solid #eef2f6;
         }
-
         .history-grid {
             display: flex;
             flex-wrap: wrap;
-            gap: 16px;
-            margin-top: 14px;
+            gap: 12px;
+            margin-top: 12px;
         }
-
         .history-item {
             background: #f8fafc;
             border-radius: 40px;
-            padding: 8px 18px;
+            padding: 6px 16px;
             display: flex;
             align-items: center;
-            gap: 12px;
-            font-size: 0.8rem;
+            gap: 10px;
+            font-size: 0.75rem;
             cursor: pointer;
             border: 1px solid #e2e8f0;
-            transition: 0.1s;
         }
-
-        .history-item:hover {
-            background: #eef2ff;
-        }
-
         .clear-history {
             background: none;
             border: none;
             color: #ef4444;
             font-size: 0.7rem;
             cursor: pointer;
-            margin-left: 20px;
         }
-
         .loader {
             text-align: center;
             padding: 30px;
@@ -416,44 +445,52 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(0,0,0,0.9);
-            z-index: 1000;
+            background: rgba(0,0,0,0.92);
+            z-index: 1100;
             display: flex;
             align-items: center;
             justify-content: center;
             flex-direction: column;
         }
-
         .video-preview video {
             max-width: 90%;
-            max-height: 70%;
-            border-radius: 20px;
+            max-height: 65%;
+            border-radius: 24px;
             border: 2px solid white;
         }
-
         .capture-controls {
-            margin-top: 20px;
+            margin-top: 24px;
             display: flex;
-            gap: 16px;
+            gap: 18px;
         }
-
         .capture-btn, .close-camera {
             background: white;
             border: none;
-            padding: 12px 24px;
+            padding: 10px 24px;
             border-radius: 50px;
             font-weight: 600;
             cursor: pointer;
         }
-
         .close-camera {
             background: #ef4444;
             color: white;
         }
 
-        @media (max-width: 780px) {
-            body { padding: 20px 16px; }
-            .product-card { flex: 0 0 260px; }
+        @media (max-width: 720px) {
+            .search-input-group {
+                flex-wrap: wrap;
+                background: white;
+                border-radius: 32px;
+                padding: 12px;
+            }
+            .action-buttons {
+                width: 100%;
+                justify-content: flex-end;
+            }
+            .text-input-simple {
+                width: 100%;
+                padding: 12px 0;
+            }
         }
     </style>
 </head>
@@ -462,490 +499,323 @@
     <div class="hero">
         <h1>AI-Powered Visual Search & Product Discovery Engine</h1>
         <p>multimodal search · style similarity · intelligent filters</p>
-        <div id="backendStatus" class="status-badge">Checking backend connection...</div>
+        <div id="backendStatus" class="status-badge">Checking backend...</div>
     </div>
 
-    <div class="search-modes">
-        <div class="mode-card">
-            <div class="mode-title">Image Search <span>visual similarity</span></div>
-            <input type="file" id="imgOnlyFile" accept="image/jpeg,image/png,image/webp">
-            <label for="imgOnlyFile" class="file-label" id="imgOnlyLabel">Choose image</label>
-            <button class="camera-btn" id="cameraImgOnly">Camera</button>
-            <button class="search-btn" id="imgOnlyBtn">Search by Image</button>
+    <div class="unified-search-card">
+        <div class="search-input-group">
+            <input type="text" id="unifiedQuery" class="text-input-simple" placeholder="Describe a product... or add an image via +">
+            <div class="action-buttons">
+                <button id="plusUploadBtn" class="plus-btn" title="Add image">+</button>
+                <button id="unifiedSearchBtn" class="search-main-btn">Search</button>
+            </div>
         </div>
-
-        <div class="mode-card">
-            <div class="mode-title">Image + Text <span>hybrid</span></div>
-            <input type="file" id="hybridImage" accept="image/jpeg,image/png,image/webp">
-            <label for="hybridImage" class="file-label" id="hybridLabel">Upload image</label>
-            <button class="camera-btn" id="cameraHybrid">Camera</button>
-            <input type="text" id="hybridText" class="text-input-field" placeholder="e.g., blue dress under 3000">
-            <button class="search-btn" id="hybridBtn">Multimodal Search</button>
+        
+        <input type="file" id="unifiedFileUpload" class="hidden-file-input" accept="image/jpeg,image/png,image/webp">
+        
+        <div id="imagePreviewContainer" style="display: none;" class="image-preview-area">
+            <img id="previewThumb" class="preview-img" alt="preview">
+            <span id="previewFileName" style="font-size:0.8rem; color:#334155;"></span>
+            <button id="removeImageBtn" class="remove-file">Remove</button>
+            <span id="activeModeHint" class="mode-badge">Image mode active</span>
         </div>
-
-        <div class="mode-card">
-            <div class="mode-title">Text Search <span>semantic + filters</span></div>
-            <input type="text" id="textOnlyQuery" class="text-input-field" placeholder="describe product: red sneakers nike">
-            <button class="search-btn" id="textOnlyBtn">Search by Text</button>
+        <div id="textOnlyHint" style="margin-top: 12px; font-size:0.7rem; color:#6c757d; display: none;">
+            Text-only mode — semantic search
         </div>
     </div>
 
     <div class="filter-panel">
-        <div class="filter-group">
-            <label>COLOR</label>
-            <select id="filterColor" class="filter-select">
-                <option value="">any</option>
-                <option value="red">Red</option><option value="blue">Blue</option><option value="green">Green</option>
-                <option value="black">Black</option><option value="white">White</option><option value="yellow">Yellow</option>
-                <option value="pink">Pink</option><option value="brown">Brown</option>
-            </select>
-        </div>
-        <div class="filter-group">
-            <label>CATEGORY</label>
-            <select id="filterCategory" class="filter-select">
-                <option value="">all</option>
-                <option value="shirt">Shirt</option><option value="t-shirt">T-shirt</option><option value="jeans">Jeans</option>
-                <option value="saree">Saree</option><option value="dress">Dress</option><option value="jacket">Jacket</option>
-                <option value="shoes">Shoes</option>
-            </select>
-        </div>
-        <div class="filter-group">
-            <label>BRAND</label>
-            <input type="text" id="filterBrand" class="filter-input" placeholder="nike, puma, roadster">
-        </div>
-        <div class="filter-group">
-            <label>MAX PRICE (₹)</label>
-            <input type="number" id="filterPrice" class="filter-input" placeholder="e.g., 2500">
-        </div>
-        <div class="filter-group">
-            <label>SORT BY</label>
-            <select id="sortBy" class="filter-select">
-                <option value="none">Default (similarity)</option>
-                <option value="price_asc">Price: Low to High</option>
-                <option value="price_desc">Price: High to Low</option>
-            </select>
-        </div>
-        <button id="applyRefineBtn" class="apply-filters-btn">Apply Filters & Sort</button>
+        <div class="filter-group"><label>COLOR</label><select id="filterColor" class="filter-select"><option value="">any</option><option value="red">Red</option><option value="blue">Blue</option><option value="green">Green</option><option value="black">Black</option><option value="white">White</option><option value="yellow">Yellow</option><option value="pink">Pink</option></select></div>
+        <div class="filter-group"><label>CATEGORY</label><select id="filterCategory" class="filter-select"><option value="">all</option><option value="shirt">Shirt</option><option value="t-shirt">T-shirt</option><option value="jeans">Jeans</option><option value="dress">Dress</option><option value="jacket">Jacket</option><option value="shoes">Shoes</option></select></div>
+        <div class="filter-group"><label>BRAND</label><input type="text" id="filterBrand" class="filter-input" placeholder="nike, puma"></div>
+        <div class="filter-group"><label>MAX PRICE (₹)</label><input type="number" id="filterPrice" class="filter-input" placeholder="e.g., 3000"></div>
+        <div class="filter-group"><label>SORT BY</label><select id="sortBy" class="filter-select"><option value="none">Default</option><option value="price_asc">Price ↑</option><option value="price_desc">Price ↓</option></select></div>
+        <button id="applyRefineBtn" class="apply-filters-btn">Apply Filters</button>
     </div>
 
     <div class="results-section">
-        <div class="section-header">
-            <h2>Style matches <span id="resultCountBadge" class="badge-tag">0 items</span></h2>
-            <span id="activeModeBadge" style="font-size:0.75rem; background:#eef2ff; padding:4px 12px; border-radius:50px;">—</span>
-        </div>
-        <div id="resultsGrid" class="horizontal-scroll">
-            <div class="loader">upload or search to discover products</div>
-        </div>
+        <div class="section-header"><h2>Style matches <span id="resultCountBadge" class="badge-tag">0 items</span></h2><span id="activeModeBadge" style="font-size:0.7rem;">—</span></div>
+        <div id="resultsGrid" class="horizontal-scroll"><div class="loader">Add an image or describe your style</div></div>
     </div>
 
-    <div class="results-section" style="margin-top: 24px;">
-        <div class="section-header">
-            <h2>Explore similar style / aesthetic</h2>
-            <span class="badge-tag">beyond exact visual</span>
-        </div>
-        <div id="similarStyleGrid" class="horizontal-scroll">
-            <div style="color:#64748b;">similar style suggestions will appear here</div>
-        </div>
+    <div class="results-section">
+        <div class="section-header"><h2>Suggestions</h2><span class="badge-tag">visual vibe</span></div>
+        <div id="similarStyleGrid" class="horizontal-scroll"><div style="color:#64748b;">Suggestions will appear here</div></div>
     </div>
 
     <div class="history-panel">
-        <div style="display: flex; justify-content: space-between;">
-            <strong>Search session history</strong>
-            <button id="clearHistoryBtn" class="clear-history">Clear all</button>
-        </div>
-        <div id="historyList" class="history-grid">
-            <span style="color:#94a3b8;">No searches yet</span>
-        </div>
+        <div style="display: flex; justify-content: space-between;"><strong>Recent searches</strong><button id="clearHistoryBtn" class="clear-history">Clear all</button></div>
+        <div id="historyList" class="history-grid"><span style="color:#94a3b8;">No searches yet</span></div>
     </div>
 </div>
 
 <script>
-    // ============================================
-    // BACKEND CONFIGURATION
-    // ============================================
-    const API_BASE = "http://127.0.0.1:8000";  // ✅ Change this if deploying to a server
+    const API_BASE = "http://127.0.0.1:8000";
     const USE_BACKEND = true;
-    
     let currentRawResults = [];
     let sessionHistory = [];
     let activeCameraCallback = null;
+    let currentSelectedFile = null;   
 
-    // Check backend connection on load
-    async function checkBackendConnection() {
-        const statusElement = document.getElementById('backendStatus');
-        if (!USE_BACKEND) {
-            statusElement.textContent = 'Demo mode (no backend connection)';
-            statusElement.className = 'status-badge disconnected';
-            return;
-        }
+    const unifiedFileInput = document.getElementById("unifiedFileUpload");
+    const unifiedQueryInput = document.getElementById("unifiedQuery");
+    const previewContainer = document.getElementById("imagePreviewContainer");
+    const previewThumb = document.getElementById("previewThumb");
+    const previewFileNameSpan = document.getElementById("previewFileName");
+    const removeImageBtn = document.getElementById("removeImageBtn");
+    const textOnlyHint = document.getElementById("textOnlyHint");
+    const activeModeHintSpan = document.getElementById("activeModeHint");
+    const plusBtn = document.getElementById("plusUploadBtn");
+
+    function showUploadOptions() {
+        const overlay = document.createElement('div');
+        overlay.className = 'upload-options-overlay';
+        overlay.innerHTML = `
+            <div class="upload-options-card">
+                <h3>Add media</h3>
+                <button id="optionUploadImage" class="option-btn">Upload Image</button>
+                <button id="optionCamera" class="option-btn">Use Camera</button>
+                <button id="optionCancel" class="option-btn cancel-options">Cancel</button>
+            </div>
+        `;
+        document.body.appendChild(overlay);
         
+        const uploadBtn = overlay.querySelector('#optionUploadImage');
+        const cameraBtn = overlay.querySelector('#optionCamera');
+        const cancelBtn = overlay.querySelector('#optionCancel');
+        
+        uploadBtn.addEventListener('click', () => {
+            unifiedFileInput.click();
+            document.body.removeChild(overlay);
+        });
+        cameraBtn.addEventListener('click', () => {
+            document.body.removeChild(overlay);
+            openCamera((file) => {
+                currentSelectedFile = file;
+                const dataTransfer = new DataTransfer();
+                dataTransfer.items.add(file);
+                unifiedFileInput.files = dataTransfer.files;
+                updateUIMode();
+            });
+        });
+        cancelBtn.addEventListener('click', () => {
+            document.body.removeChild(overlay);
+        });
+    }
+    
+    function updateUIMode() {
+        if (currentSelectedFile) {
+            previewContainer.style.display = "flex";
+            const reader = new FileReader();
+            reader.onload = (e) => { previewThumb.src = e.target.result; };
+            reader.readAsDataURL(currentSelectedFile);
+            previewFileNameSpan.innerText = currentSelectedFile.name.length > 25 ? currentSelectedFile.name.slice(0,22)+"..." : currentSelectedFile.name;
+            activeModeHintSpan.innerText = "Image + Text mode";
+            textOnlyHint.style.display = "none";
+        } else {
+            previewContainer.style.display = "none";
+            previewThumb.src = "";
+            if (unifiedQueryInput.value.trim().length > 0) {
+                activeModeHintSpan.innerText = "Text semantic mode";
+                textOnlyHint.style.display = "block";
+            } else {
+                activeModeHintSpan.innerText = "Add image or text";
+                textOnlyHint.style.display = "none";
+            }
+        }
+    }
+
+    unifiedFileInput.addEventListener("change", (e) => {
+        if (e.target.files && e.target.files[0]) {
+            currentSelectedFile = e.target.files[0];
+            updateUIMode();
+        } else {
+            currentSelectedFile = null;
+            updateUIMode();
+        }
+    });
+
+    removeImageBtn.addEventListener("click", () => {
+        currentSelectedFile = null;
+        unifiedFileInput.value = "";
+        updateUIMode();
+    });
+
+    unifiedQueryInput.addEventListener("input", () => {
+        if (!currentSelectedFile && unifiedQueryInput.value.trim().length > 0) {
+            activeModeHintSpan.innerText = "Text semantic mode";
+            textOnlyHint.style.display = "block";
+        } else if (!currentSelectedFile && unifiedQueryInput.value.trim().length === 0) {
+            activeModeHintSpan.innerText = "Add image or text";
+            textOnlyHint.style.display = "none";
+        } else if (currentSelectedFile) {
+            textOnlyHint.style.display = "none";
+            activeModeHintSpan.innerText = "Image + Text mode";
+        }
+    });
+
+    async function checkBackendConnection() {
+        const statusEl = document.getElementById('backendStatus');
+        if (!USE_BACKEND) { statusEl.textContent = 'Demo mode'; statusEl.className = 'status-badge disconnected'; return; }
         try {
             const response = await fetch(`${API_BASE}/`);
             if (response.ok) {
-                const data = await response.json();
-                statusElement.textContent = `✓ Connected to backend at ${API_BASE}`;
-                statusElement.className = 'status-badge connected';
-                console.log('Backend connected:', data);
-            } else {
-                throw new Error('Backend responded with error');
-            }
+                statusEl.textContent = `Connected to ${API_BASE}`;
+                statusEl.className = 'status-badge connected';
+            } else throw new Error();
         } catch (error) {
-            statusElement.textContent = `✗ Cannot connect to ${API_BASE} - Make sure backend is running (uvicorn main:app --reload)`;
-            statusElement.className = 'status-badge disconnected';
-            console.error('Backend connection error:', error);
+            statusEl.textContent = `Cannot reach ${API_BASE} — run backend (uvicorn main:app --reload)`;
+            statusEl.className = 'status-badge disconnected';
         }
     }
 
-    function loadHistory() {
-        const stored = localStorage.getItem("nova_search_history");
-        if(stored) {
-            try{
-                sessionHistory = JSON.parse(stored);
-                renderHistory();
-            }catch(e){}
-        }
-    }
-    
-    function saveHistory() {
-        localStorage.setItem("nova_search_history", JSON.stringify(sessionHistory.slice(0, 12)));
-        renderHistory();
-    }
-    
-    function addHistoryEntry(type, queryText, resultsArray) {
-        const preview = queryText ? (queryText.length>40 ? queryText.slice(0,40)+"…":queryText) : (type==="image" ? "Image upload" : "Multimodal");
-        sessionHistory.unshift({
-            type, preview, timestamp: new Date().toLocaleTimeString(),
-            snapshot: resultsArray ? resultsArray.slice(0,5) : []
-        });
+    function loadHistory() { const stored = localStorage.getItem("nova_search_history"); if(stored) { try{ sessionHistory = JSON.parse(stored); renderHistory(); }catch(e){} } }
+    function saveHistory() { localStorage.setItem("nova_search_history", JSON.stringify(sessionHistory.slice(0,12))); renderHistory(); }
+    function addHistoryEntry(type, previewText, resultsArray) {
+        sessionHistory.unshift({ type, preview: previewText.slice(0,50), timestamp: new Date().toLocaleTimeString(), snapshot: resultsArray ? resultsArray.slice(0,5) : [] });
         if(sessionHistory.length > 15) sessionHistory.pop();
         saveHistory();
     }
-    
     function renderHistory() {
         const container = document.getElementById("historyList");
-        if(!sessionHistory.length) {
-            container.innerHTML = "<span style='color:#94a3b8;'>No searches yet</span>";
-            return;
-        }
-        container.innerHTML = sessionHistory.map((h, idx) => `
-            <div class="history-item" data-idx="${idx}">
-                <span>${h.type} · ${h.preview}</span>
-                <small style="color:#6c757d;">${h.timestamp}</small>
-            </div>
-        `).join("");
+        if(!sessionHistory.length){ container.innerHTML = "<span style='color:#94a3b8;'>No searches yet</span>"; return; }
+        container.innerHTML = sessionHistory.map((h, idx) => `<div class="history-item" data-idx="${idx}"><span>${h.type} · ${h.preview}</span><small>${h.timestamp}</small></div>`).join("");
         document.querySelectorAll(".history-item").forEach(el => {
-            el.addEventListener("click", (e) => {
-                const idx = el.dataset.idx;
-                const entry = sessionHistory[idx];
-                if(entry && entry.snapshot && entry.snapshot.length){
-                    displayResults(entry.snapshot);
-                    currentRawResults = entry.snapshot;
-                    document.getElementById("activeModeBadge").innerText = `history: ${entry.type}`;
-                } else if(entry){
-                    alert("Preview only, re-run search for full results");
-                }
+            el.addEventListener("click", () => {
+                const entry = sessionHistory[el.dataset.idx];
+                if(entry && entry.snapshot && entry.snapshot.length){ displayResults(entry.snapshot); currentRawResults = entry.snapshot; document.getElementById("activeModeBadge").innerText = `history: ${entry.type}`; generateSimilarStyle(entry.snapshot); }
+                else alert("Preview only, re-run search");
             });
         });
     }
-    
+
     function displayResults(products) {
         const container = document.getElementById("resultsGrid");
-        if(!products || products.length === 0){
-            container.innerHTML = `<div style="padding: 32px; text-align:center;">No products found. Try different filters or search terms.</div>`;
-            document.getElementById("resultCountBadge").innerText = "0 items";
-            return;
-        }
+        if(!products || products.length === 0){ container.innerHTML = `<div style="padding:32px;text-align:center;">No products found. Adjust filters or try another search.</div>`; document.getElementById("resultCountBadge").innerText = "0 items"; return; }
         document.getElementById("resultCountBadge").innerText = `${products.length} items`;
         container.innerHTML = products.map(p => {
-            let imageName, price, color, category, brand, productName;
-            
-            if (typeof p === 'string') {
-                imageName = p;
-                price = 0;
-                color = "—";
-                category = "—";
-                brand = "—";
-                productName = p;
-            } else {
-                imageName = p.image || p.image_url?.split('/images/')[1] || p;
-                price = p.price || 0;
-                color = p.color || "—";
-                category = p.category || "—";
-                brand = p.brand || "—";
-                productName = p.product_name || imageName;
-            }
-            
-            // ✅ FIXED: Use absolute URL so images load regardless of how HTML is opened
+            let imageName = p.image || (p.image_url?.split('/images/')[1]) || "";
+            let price = p.price || 0, color = p.color || "—", category = p.category || "—", brand = p.brand || "—", productName = p.product_name || imageName;
             const imgUrl = p.image_url || `${API_BASE}/images/${imageName}`;
-            
-            return `
-                <div class="product-card">
-                    <div class="card-img">
-                        <img src="${imgUrl}" alt="${productName}" onerror="this.src='https://placehold.co/300x400?text=Image+Not+Found'">
-                    </div>
-                    <div class="card-details">
-                        <div class="price">₹${Number(price).toLocaleString('en-IN')}</div>
-                        <div class="brand">${String(brand).toUpperCase()}</div>
-                        <div class="color-cat">
-                            <span>${color}</span>
-                            <span>${category}</span>
-                        </div>
-                        <div class="product-name">${productName}</div>
-                        <div class="match-tag">visual style match</div>
-                    </div>
-                </div>
-            `;
+            return `<div class="product-card"><div class="card-img"><img src="${imgUrl}" alt="${productName}" onerror="this.src='https://placehold.co/400x500?text=No+Preview'"></div><div class="card-details"><div class="price">₹${Number(price).toLocaleString('en-IN')}</div><div class="brand">${String(brand).toUpperCase()}</div><div class="color-cat"><span>${color}</span><span>${category}</span></div><div class="product-name">${productName}</div><div class="match-tag">style match</div></div></div>`;
         }).join("");
     }
-    
+
     function applyClientFiltersAndSort() {
         if(!currentRawResults.length) return;
         let filtered = [...currentRawResults];
-        const colorVal = document.getElementById("filterColor").value;
-        const catVal = document.getElementById("filterCategory").value;
-        const brandVal = document.getElementById("filterBrand").value.trim().toLowerCase();
-        const maxPrice = parseFloat(document.getElementById("filterPrice").value);
-        
+        const colorVal = document.getElementById("filterColor").value, catVal = document.getElementById("filterCategory").value, brandVal = document.getElementById("filterBrand").value.trim().toLowerCase(), maxPrice = parseFloat(document.getElementById("filterPrice").value);
         filtered = filtered.filter(p => {
-            const itemColor = (p.color || "").toLowerCase();
-            const itemCategory = (p.category || "").toLowerCase();
-            const itemBrand = (p.brand || "").toLowerCase();
-            const itemName = (p.product_name || "").toLowerCase();
-            
-            if(colorVal && !itemColor.includes(colorVal.toLowerCase())) return false;
-            if(catVal && !itemCategory.includes(catVal.toLowerCase())) return false;
-            if(brandVal && !itemBrand.includes(brandVal) && !itemName.includes(brandVal)) return false;
+            if(colorVal && !(p.color || "").toLowerCase().includes(colorVal.toLowerCase())) return false;
+            if(catVal && !(p.category || "").toLowerCase().includes(catVal.toLowerCase())) return false;
+            if(brandVal && !(p.brand || "").toLowerCase().includes(brandVal) && !(p.product_name || "").toLowerCase().includes(brandVal)) return false;
             if(!isNaN(maxPrice) && (p.price || 0) > maxPrice) return false;
             return true;
         });
-        
         const sortType = document.getElementById("sortBy").value;
-        if(sortType === "price_asc") filtered.sort((a,b) => (a.price||0) - (b.price||0));
-        if(sortType === "price_desc") filtered.sort((a,b) => (b.price||0) - (a.price||0));
+        if(sortType === "price_asc") filtered.sort((a,b) => (a.price||0)-(b.price||0));
+        if(sortType === "price_desc") filtered.sort((a,b) => (b.price||0)-(a.price||0));
         displayResults(filtered);
         if(filtered.length) generateSimilarStyle(filtered);
     }
-    
+
     function generateSimilarStyle(results){
         const styleContainer = document.getElementById("similarStyleGrid");
-        if(!results.length) { 
-            styleContainer.innerHTML = "<div>no data for style expansion</div>"; 
-            return; 
-        }
-        const categories = [...new Set(results.map(r => r.category).filter(c => c && c !== "—" && c !== "unknown"))];
+        if(!results.length){ styleContainer.innerHTML = "<div>No suggestions available</div>"; return; }
+        const categories = [...new Set(results.map(r => r.category).filter(c => c && c !== "—"))];
         if(categories.length && currentRawResults.length){
             let similarCandidates = currentRawResults.filter(r => categories.includes(r.category));
             similarCandidates = similarCandidates.slice(0,6);
-            if(similarCandidates.length < 3 && currentRawResults.length) similarCandidates = currentRawResults.slice(0,5);
+            if(similarCandidates.length < 3) similarCandidates = currentRawResults.slice(0,5);
             styleContainer.innerHTML = similarCandidates.map(p => {
-                // ✅ FIXED: absolute URL for similar style section too
                 const imgUrl = p.image_url || `${API_BASE}/images/${p.image}`;
-                return `
-                    <div class="product-card" style="flex:0 0 240px;">
-                        <div class="card-img" style="height:180px;">
-                            <img src="${imgUrl}" style="object-fit:cover; width:100%; height:100%;" onerror="this.src='https://placehold.co/300x400?text=Image+Not+Found'">
-                        </div>
-                        <div class="card-details">
-                            <div class="price">₹${p.price||0}</div>
-                            <div class="brand">${p.brand}</div>
-                            <div class="color-cat">${p.category}</div>
-                        </div>
-                    </div>
-                `;
+                return `<div class="product-card" style="flex:0 0 230px;"><div class="card-img" style="height:160px;"><img src="${imgUrl}" style="object-fit:cover; width:100%; height:100%;" onerror="this.src='https://placehold.co/300x400?text=Not+found'"></div><div class="card-details"><div class="price">₹${p.price||0}</div><div class="brand">${p.brand}</div><div class="color-cat">${p.category}</div></div></div>`;
             }).join("");
-        } else {
-            styleContainer.innerHTML = "<div>try searching with more details to see aesthetic suggestions</div>";
-        }
+        } else { styleContainer.innerHTML = "<div>Add more details to see style suggestions</div>"; }
     }
-    
+
     async function callSearchAPI(payload) {
-        if (!USE_BACKEND) {
-            console.log('Demo mode - would send:', payload);
-            return [];
-        }
-        
+        if (!USE_BACKEND) throw new Error("Backend not available");
         const formData = new FormData();
         if(payload.file) formData.append("file", payload.file);
         if(payload.query) formData.append("query", payload.query);
-        const endpoint = `${API_BASE}/search/`;
-        
-        try {
-            const response = await fetch(endpoint, { method: "POST", body: formData });
-            if(!response.ok) throw new Error(`API error ${response.status}: ${response.statusText}`);
-            const data = await response.json();
-            if(data.error) throw new Error(data.error);
-            
-            let finalResults = [];
-            if(data.results && Array.isArray(data.results)){
-                finalResults = data.results;
-            } else if(data.similar_images && Array.isArray(data.similar_images)){
-                // ✅ FIXED: absolute URL fallback for similar_images format
-                finalResults = data.similar_images.map(img => ({
-                    image: img,
-                    image_url: `${API_BASE}/images/${img}`,
-                    price: 0, color: "—", category: "—", brand: "—"
-                }));
-            } else {
-                finalResults = [];
-            }
-            
-            return finalResults;
-        } catch (error) {
-            console.error('API call failed:', error);
-            throw error;
-        }
+        const response = await fetch(`${API_BASE}/search/`, { method: "POST", body: formData });
+        if(!response.ok) throw new Error(`API error ${response.status}`);
+        const data = await response.json();
+        if(data.error) throw new Error(data.error);
+        let finalResults = [];
+        if(data.results && Array.isArray(data.results)) finalResults = data.results;
+        else if(data.similar_images && Array.isArray(data.similar_images)) finalResults = data.similar_images.map(img => ({ image: img, image_url: `${API_BASE}/images/${img}`, price: 0, color: "—", category: "—", brand: "—" }));
+        return finalResults;
     }
-    
-    async function performSearch(mode, fileInput, textQuery) {
-        if (!USE_BACKEND) {
-            alert('Backend not connected. Please start your FastAPI server.\n\nRun: uvicorn main:app --reload');
-            return;
-        }
+
+    async function performUnifiedSearch() {
+        if (!USE_BACKEND) { alert("Backend not connected. Please start FastAPI server: uvicorn main:app --reload"); return; }
+        const file = currentSelectedFile;
+        const queryText = unifiedQueryInput.value.trim();
+        if (!file && !queryText) { alert("Please provide an image, text description, or both"); return; }
         
-        let file = null;
-        if(fileInput && fileInput.files && fileInput.files[0]) file = fileInput.files[0];
-        let queryText = textQuery || "";
+        let mode = "";
         let payload = {};
+        if(file && queryText) { mode = "hybrid"; payload = { file, query: queryText }; }
+        else if(file && !queryText) { mode = "image"; payload = { file }; }
+        else if(!file && queryText) { mode = "text"; payload = { query: queryText }; }
         
-        if(mode === "image" && file) payload = { file };
-        else if(mode === "text" && queryText) payload = { query: queryText };
-        else if(mode === "hybrid" && file && queryText) payload = { file, query: queryText };
-        else { alert("Please provide required inputs for this mode"); return; }
-        
-        document.getElementById("resultsGrid").innerHTML = "<div class='loader'>AI searching... processing image and finding similar styles...</div>";
-        try{
+        document.getElementById("resultsGrid").innerHTML = "<div class='loader'>AI is searching styles & visual matches...</div>";
+        try {
             const results = await callSearchAPI(payload);
             currentRawResults = results;
             displayResults(results);
-            document.getElementById("activeModeBadge").innerHTML = mode === "image" ? "Image Search" : (mode === "text" ? "Text Search" : "Multimodal (Image+Text)");
-            
-            let preview = "";
-            if(mode==="image") preview = "image upload";
-            else if(mode==="text") preview = queryText.slice(0,50);
-            else preview = `${file?.name || "image"} + "${queryText?.slice(0,30)}"`;
-            addHistoryEntry(mode === "image" ? "Image" : (mode==="text"?"Text":"Hybrid"), preview, results.slice(0,8));
+            let modeLabel = mode === "image" ? "Image Search" : (mode === "text" ? "Text Search" : "Multimodal (Image+Text)");
+            document.getElementById("activeModeBadge").innerText = modeLabel;
+            let previewEntry = "";
+            if(mode === "image") previewEntry = "Image: " + file.name;
+            else if(mode === "text") previewEntry = "Text: \"" + queryText.slice(0,40) + "\"";
+            else previewEntry = "Hybrid: " + file.name + " + \"" + queryText.slice(0,25) + "\"";
+            addHistoryEntry(modeLabel, previewEntry, results.slice(0,8));
             generateSimilarStyle(results);
-        } catch(e){
+        } catch(e) {
             console.error(e);
-            document.getElementById("resultsGrid").innerHTML = `<div style="color:#b91c1c; padding:20px;">
-                <strong>Error:</strong> ${e.message}<br><br>
-                <strong>Troubleshooting steps:</strong><br>
-                1. Make sure backend is running: <code>uvicorn main:app --reload</code><br>
-                2. Check if CORS is enabled in your FastAPI backend<br>
-                3. Verify images exist in <code>data/fashion/</code> folder<br>
-                4. Check console for more details (F12)
-            </div>`;
+            document.getElementById("resultsGrid").innerHTML = `<div style="color:#b91c1c; padding:20px;">Error: ${e.message}<br><br>Check backend and image folder</div>`;
         }
     }
-    
+
     function openCamera(callback) {
         activeCameraCallback = callback;
         const video = document.createElement('video');
         const container = document.createElement('div');
         container.className = 'video-preview';
-        container.id = 'cameraModal';
-        video.autoplay = true;
-        video.playsInline = true;
-        const captureBtn = document.createElement('button');
-        captureBtn.innerText = 'Capture Photo';
-        captureBtn.className = 'capture-btn';
-        const closeBtn = document.createElement('button');
-        closeBtn.innerText = 'Close';
-        closeBtn.className = 'close-camera';
-        const controls = document.createElement('div');
-        controls.className = 'capture-controls';
-        controls.appendChild(captureBtn);
-        controls.appendChild(closeBtn);
-        container.appendChild(video);
-        container.appendChild(controls);
+        video.autoplay = true; video.playsInline = true;
+        const captureBtn = document.createElement('button'); captureBtn.innerText = 'Capture'; captureBtn.className = 'capture-btn';
+        const closeBtn = document.createElement('button'); closeBtn.innerText = 'Close'; closeBtn.className = 'close-camera';
+        const controls = document.createElement('div'); controls.className = 'capture-controls';
+        controls.appendChild(captureBtn); controls.appendChild(closeBtn);
+        container.appendChild(video); container.appendChild(controls);
         document.body.appendChild(container);
-        
-        navigator.mediaDevices.getUserMedia({ video: true })
-            .then(stream => {
-                video.srcObject = stream;
-                captureBtn.onclick = () => {
-                    const canvas = document.createElement('canvas');
-                    canvas.width = video.videoWidth;
-                    canvas.height = video.videoHeight;
-                    canvas.getContext('2d').drawImage(video, 0, 0, canvas.width, canvas.height);
-                    canvas.toBlob(blob => {
-                        const file = new File([blob], "camera-capture.jpg", { type: "image/jpeg" });
-                        if(activeCameraCallback) activeCameraCallback(file);
-                        stream.getTracks().forEach(track => track.stop());
-                        document.body.removeChild(container);
-                    }, 'image/jpeg');
-                };
-                closeBtn.onclick = () => {
-                    stream.getTracks().forEach(track => track.stop());
+        navigator.mediaDevices.getUserMedia({ video: true }).then(stream => {
+            video.srcObject = stream;
+            captureBtn.onclick = () => {
+                const canvas = document.createElement('canvas'); canvas.width = video.videoWidth; canvas.height = video.videoHeight;
+                canvas.getContext('2d').drawImage(video, 0, 0, canvas.width, canvas.height);
+                canvas.toBlob(blob => {
+                    const file = new File([blob], "camera-snap.jpg", { type: "image/jpeg" });
+                    if(activeCameraCallback) activeCameraCallback(file);
+                    stream.getTracks().forEach(t => t.stop());
                     document.body.removeChild(container);
-                };
-            })
-            .catch(err => {
-                alert("Camera access failed: " + err.message);
-                document.body.removeChild(container);
-            });
+                }, 'image/jpeg');
+            };
+            closeBtn.onclick = () => { stream.getTracks().forEach(t => t.stop()); document.body.removeChild(container); };
+        }).catch(err => { alert("Camera error: "+err.message); document.body.removeChild(container); });
     }
+
+    plusBtn.addEventListener("click", () => showUploadOptions());
+    document.getElementById("unifiedSearchBtn").onclick = () => performUnifiedSearch();
+    document.getElementById("applyRefineBtn").onclick = () => applyClientFiltersAndSort();
+    document.getElementById("clearHistoryBtn").onclick = () => { sessionHistory = []; saveHistory(); renderHistory(); };
     
-    // Event listeners
-    document.getElementById("imgOnlyBtn").onclick = () => {
-        const fileInp = document.getElementById("imgOnlyFile");
-        if(!fileInp.files.length){ alert("Please select an image first or use camera to capture"); return; }
-        performSearch("image", fileInp, "");
-    };
-    
-    document.getElementById("hybridBtn").onclick = () => {
-        const fileInp = document.getElementById("hybridImage");
-        const text = document.getElementById("hybridText").value.trim();
-        if(!fileInp.files.length){ alert("Please upload or capture an image for hybrid search"); return; }
-        if(!text){ alert("Please enter text description (e.g., 'blue dress', 'red shoes under 2000')"); return; }
-        performSearch("hybrid", fileInp, text);
-    };
-    
-    document.getElementById("textOnlyBtn").onclick = () => {
-        const text = document.getElementById("textOnlyQuery").value.trim();
-        if(!text){ alert("Please enter a product description (e.g., 'black sneakers nike')"); return; }
-        performSearch("text", null, text);
-    };
-    
-    document.getElementById("applyRefineBtn").onclick = () => {
-        applyClientFiltersAndSort();
-    };
-    
-    document.getElementById("clearHistoryBtn").onclick = () => {
-        sessionHistory = [];
-        saveHistory();
-        renderHistory();
-    };
-    
-    document.getElementById("cameraImgOnly").onclick = () => {
-        openCamera((file) => {
-            const dataTransfer = new DataTransfer();
-            dataTransfer.items.add(file);
-            document.getElementById("imgOnlyFile").files = dataTransfer.files;
-            document.getElementById("imgOnlyLabel").innerText = "captured.jpg";
-        });
-    };
-    
-    document.getElementById("cameraHybrid").onclick = () => {
-        openCamera((file) => {
-            const dataTransfer = new DataTransfer();
-            dataTransfer.items.add(file);
-            document.getElementById("hybridImage").files = dataTransfer.files;
-            document.getElementById("hybridLabel").innerText = "captured.jpg";
-        });
-    };
-    
-    document.getElementById("imgOnlyFile").addEventListener("change", (e) => {
-        document.getElementById("imgOnlyLabel").innerText = e.target.files[0]?.name || "Choose image";
-    });
-    
-    document.getElementById("hybridImage").addEventListener("change", (e) => {
-        document.getElementById("hybridLabel").innerText = e.target.files[0]?.name || "Upload image";
-    });
-    
-    // Initialize
     checkBackendConnection();
     loadHistory();
+    updateUIMode();
 </script>
 </body>
 </html>
