@@ -3,7 +3,7 @@ import torch
 from dotenv import load_dotenv
 from transformers import CLIPProcessor, CLIPModel
 
-load_dotenv()  # loads .env into os.environ
+load_dotenv()  
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 HF_TOKEN = os.getenv("HF_TOKEN")
