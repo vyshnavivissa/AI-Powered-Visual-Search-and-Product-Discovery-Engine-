@@ -2,11 +2,8 @@ import os
 import numpy as np
 import faiss
 from PIL import Image
-
-from backend.model import get_image_embedding
-
-IMAGE_FOLDER = r"C:\Users\xx\OneDrive\Desktop\visual_search\data\fashion"
-
+from model import get_image_embedding
+IMAGE_FOLDER = "fashion"
 if not os.path.exists(IMAGE_FOLDER):
     raise FileNotFoundError(f"Image folder '{IMAGE_FOLDER}' not found.")
 os.makedirs("models", exist_ok=True)
